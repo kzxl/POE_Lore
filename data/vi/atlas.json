@@ -1,0 +1,186 @@
+{
+    "era": "Endgame",
+    "title": "Atlas of Worlds — Thế Giới Bản Đồ",
+    "subtitle": "khoảng 1579–1601 IC — The Elder, Conquerors, Maven & Cuộc Vây Hãm",
+    "cards": [
+        {
+            "icon": "👁️",
+            "title": "The Elder — Con Của Sự Mục Rữa",
+            "text": "Một sinh vật điên loạn ác tính, sinh ra từ hư vô trước khi thời gian bắt đầu. <strong>The Elder</strong> xâm nhập thế giới, tạo ra 'món đồ chơi' gồm hỗn loạn và thế giới bí mật — <strong>Atlas</strong> — làm bãi săn. Nó thích con mồi trẻ, kéo trẻ em vào vương quốc bóng tối, nuốt lấy ác mộng và trí tưởng tượng. Bằng năng lượng đó, nó nuôi dưỡng <strong>Decay</strong> — sự hư không from bên ngoài thời gian và không gian.",
+            "flavorText": "\"Chúng gọi nó là The Elder. Một sinh vật điên loạn ác tính, sinh ra từ hư vô trước khi thời gian bắt đầu.\" — Sách Ký Ức"
+        },
+        {
+            "icon": "⚔️",
+            "title": "Watchers of Decay — Người Canh Gác",
+            "text": "Một vị thần vô danh của Wraeclast ban cho một <strong>người mẹ Azmeri</strong> — đã mất con trai vì Elder — tri thức về sự tồn tại của nó. Bà sáng lập <strong>Watchers of Decay</strong>, giáo phái gồm các bậc cha mẹ đau khổ chiến đấu chống sinh vật. Họ chế tạo <strong>Map Device</strong> và rèn <strong>Starforge</strong> — thanh kiếm tách linh hồn khỏi thể xác. Họ giam Elder trong đá, đói và bất lực. Nhưng bản chất của nó vẫn lang thang tự do...",
+            "flavorText": "\"Từng người một, họ đứng vững trước sinh vật mà họ không có hy vọng hiểu, chứ đừng nói đánh bại, và từng người một, họ trở thành một phần của nó.\" — Watcher's Eye"
+        },
+        {
+            "icon": "📖",
+            "title": "Valdo Caeserius & Bóng Ma (1579 IC)",
+            "text": "<strong>Valdo Caeserius</strong>, trưởng Arkhon của học viện Oriath, được <strong>High Templar Venarius</strong> lệnh sửa thiết bị vàng bị vỡ tìm thấy trong phế tích Wraeclast. Khi làm việc, Valdo thiếp đi và tỉnh dậy trong <strong>Dreamlands</strong> — Atlas. Ở đó, ông gặp <strong>Bóng Ma (Shade)</strong> — linh hồn Elder giả dạng vua hợp pháp — hứa giúp ông hoàn thiện thiết bị đổi lấy một ân huệ.",
+            "flavorText": "\"Với sự kiên nhẫn của sư tử rình mồi, Bóng Ma quan sát Học Giả.\" — Cyclopean Coil"
+        },
+        {
+            "icon": "😱",
+            "title": "Elder Được Giải Phóng",
+            "text": "Khi Bóng Ma yêu cầu Valdo rút <strong>Starforge</strong> khỏi thân đá, Valdo do dự và bỏ chạy. Nhưng <strong>Venarius</strong>, biết được Dreamlands, kề dao vào cổ <strong>Zana</strong> bắt Valdo đưa vào Atlas. Venarius rút kiếm không chút do dự. <strong>Elder bùng thoát!</strong> Nó nuốt chửng Venarius và lính. Valdo chạy trốn cùng Zana qua cổng, phá hỏng Map Device, rồi quay lại một mình — quyết chiến đến cùng.",
+            "flavorText": "\"Một hành động yêu thương và phản kháng duy nhất có thể gây ra sự hủy diệt xuyên vũ trụ.\" — Cosmic Fragment"
+        },
+        {
+            "icon": "🗺️",
+            "title": "Zana Caeserius & Map Device (khoảng 1600 IC)",
+            "text": "Mồ côi sau khi Valdo hy sinh, <strong>Zana</strong> lớn lên như người hầu. Cô tìm lại Map Device trong quá trình tái thiết Oriath sau khi Dominus sụp đổ. Sử dụng nó, cô bước vào Atlas — vương quốc của những thế giới mộng mơ kết nối qua bản đồ cổ. Cô phát hiện cha mình đã trở thành <strong>The Shaper</strong>, tâm trí bị Elder nuốt, không ngừng tạo ra các thế giới méo mó.",
+            "flavorText": "\"Tôi bắt đầu khám phá Atlas như cách để gần gũi hơn với người cha xa lạ. Tôi không ngờ mình sẽ gần ông đến thế...\" — Zana"
+        },
+        {
+            "icon": "👥",
+            "title": "Chiêu Mộ Exile",
+            "text": "Zana tập hợp đội bí mật gồm các exile: <strong>Sirus</strong> (thủ lĩnh), <strong>Baran</strong> (tín đồ Templar), <strong>Al-Hezmin</strong> (thợ săn), <strong>Drox</strong> (chỉ huy), và <strong>Veritania</strong> (nhà nhân đạo). Cùng nhau họ khám phá Atlas, truy đuổi Shaper và điều tra Elder. Nhóm ngày càng thân thiết — Zana và Sirus nảy sinh tình cảm.",
+            "flavorText": "\"Sirus là thủ lĩnh nhóm Exile tôi chiêu mộ. Tài hoa và quyết đoán... Chúng tôi trở nên thân thiết.\" — Zana"
+        },
+        {
+            "icon": "💀",
+            "title": "Trận Chiến Cuối Cùng Chống Elder",
+            "text": "Dùng vũ khí của Valdo — <strong>Cosmic Arcana</strong> — tìm thấy trong phòng nghiên cứu bí mật, nhóm Zana đối đầu Elder tại trung tâm Atlas. Thiết bị ép Elder thoát khỏi hình thể vật lý, nhưng nó bám víu thực tại. <strong>Sirus nhảy lên sinh vật</strong>, cả hai cuộn vào bẫy, mất tích. Elder bị phong ấn, nhưng cái giá là mạng Sirus — và những ký ức cuối cùng của Valdo về Zana.",
+            "flavorText": "\"Elder nuốt tất cả những gì cho cuộc sống ý nghĩa cho đến khi gặp một mối ràng buộc bất khả phá.\" — Decayed Voidstone"
+        },
+        {
+            "icon": "🌀",
+            "title": "Bản Chất Của Atlas",
+            "text": "Atlas không chỉ là địa lý — nó là <strong>vương quốc mộng mơ</strong> phản chiếu khao khát và kỳ vọng của ai ở trong đó. Nó dâng hiến ước mơ điên cuồng nhất trong khi từ từ bào mòn lý trí. Đất đai cuộn sóng và biến đổi, trải qua mùa <em>đá, cấu trúc, tăng trưởng, điên loạn và hỗn loạn</em>. Ký ức vang vọng mãi mãi. Atlas vừa là tuyến phòng thủ vĩ đại nhất — vừa là cái bẫy nguy hiểm nhất.",
+            "flavorText": "\"Như bước vào giấc mơ...\" — Duelist, khi vào map đầu tiên"
+        },
+        {
+            "icon": "🏹",
+            "title": "Al-Hezmin, The Hunter",
+            "text": "Al-Hezmin thành thạo địa hình Atlas luôn biến đổi. Nhưng khao khát luôn là giỏi nhất — săn nhiều hơn, đánh ấn tượng hơn — nuốt chửng anh. <strong>Nỗi ám ảnh rỗng ruột anh</strong>, khiến anh tuyệt vọng sợ bị xếp thứ hai. Anh chưa bao giờ tàn nhẫn với Zana, nhưng sự cạnh tranh với Drox là không thể tránh. Khi điên loạn xâm nhập, anh không còn phân biệt thực hư.",
+            "flavorText": "\"Mày có thật không? Tao không biết nữa.\" — Al-Hezmin"
+        },
+        {
+            "icon": "👑",
+            "title": "Drox, The Warlord",
+            "text": "Chỉ huy chiến trường của nhóm, Drox bị ám ảnh bởi việc <strong>xây dựng vương quốc</strong> trong Atlas — thoát khỏi bạo quyền Templar. Nhưng kiểm soát trong Atlas chỉ là ảo tưởng. Anh trở nên lạnh lùng và xa cách, mê đắm chiếm giữ các thung lũng chỉ để chúng tự biến đổi khi anh rời đi. Nụ cười ấm áp thành nhăn nhó khi anh tưởng tượng thần dân ma hoan hô triều đại vàng son.",
+            "flavorText": "\"Hahaha! Tự do huy hoàng. Bạo lực. Chết chóc! Đây là miền đất hứa!\" — Drox"
+        },
+        {
+            "icon": "❄️",
+            "title": "Veritania, The Redeemer",
+            "text": "Ban đầu bị lưu đày vì <strong>hoạt động từ thiện</strong> giúp đỡ người Maraketh và Karui bị ngược đãi, sự sáng suốt của Veritania rất quý giá trong chiến dịch. Nhưng tâm trí cô vỡ theo cách khác — sự kiềm chế trở thành <strong>khinh bỉ</strong>. Cô phán xét tất cả là đáng ghê tởm, đầy tội lỗi, tự phong mình là trái tim đạo đức của Atlas, thanh trừng những kẻ cô coi là bất xứng.",
+            "flavorText": "\"Chào mừng! Thời gian vô nghĩa ở đây. Nỗi đau của ngươi sẽ vô tận.\" — Veritania"
+        },
+        {
+            "icon": "✝️",
+            "title": "Baran, The Crusader",
+            "text": "Dù Templar gây bao đau khổ, <strong>đức tin Baran vẫn không lay chuyển</strong>. Anh và Zana tranh luận khoa học vs tâm linh đến khuya. Nhưng khi điên loạn xâm nhập, sự tôn trọng biến mất. Anh cáo buộc Zana bị quỷ sai và tuyên bố mình là <strong>Thượng Đế, Đấng Sáng Tạo và Người Định Hình Thế Giới</strong>. Anh trai <strong>Kirac</strong> sau này đổ lỗi cho Zana về sự điên loạn vĩnh viễn của Baran.",
+            "flavorText": "\"Ngươi tìm ánh sáng, và đã tìm thấy. Ta đã thành Thượng Đế, Đấng Sáng Tạo và Định Hình Thế Giới.\" — Baran"
+        },
+        {
+            "icon": "🌪️",
+            "title": "Sirus, The Awakener",
+            "text": "Sirus sống sót sau hy sinh chống Elder — bị giam trong kính, nhìn bạn bè rời đi. Anh trở lại <strong>không trọn vẹn</strong>, bản chất bị đánh cắp. Suốt vĩnh hằng chủ quan anh không cảm thấy gì — không vui, đau, hay khao khát. Anh xây Map Device trong Atlas để thoát, tạo ra cơn bão hủy diệt. Khi Zana phong ấn Atlas, vô tình giam anh hàng thế kỷ cô đơn.",
+            "flavorText": "\"Em bỏ anh ở đó, Zana... hàng thế kỷ một mình trong Atlas... tất cả những gì anh muốn là cảm nhận được điều gì đó...\" — Sirus, lúc chết"
+        },
+        {
+            "icon": "🔮",
+            "title": "The Envoy & The Maven",
+            "text": "Khi sự im lặng của Elder vang vọng khắp vũ trụ, các thực thể mới hướng ánh nhìn về Atlas. <strong>The Envoy</strong> — từng là người, từng là cha — phục vụ như người bảo hộ và nhà tù cho <strong>The Maven</strong>, thực thể vũ trụ trẻ con được sinh ra để thử nghiệm giới hạn của sức mạnh vô hạn. Cô thoát khỏi nhà tù vũ trụ khi sự im lặng Elder làm điếc tất cả lính canh. Cô tìm kiếm xung đột, thu thập chiến binh làm đồ chơi.",
+            "flavorText": "\"Cô ta chỉ là đứa trẻ ương ngạnh, bị chi phối bởi ham muốn và không biết sức mạnh của mình.\" — The Envoy"
+        },
+        {
+            "icon": "🛡️",
+            "title": "Citizen Vanguard & Kirac",
+            "text": "Sau khi Sirus tàn phá Oriath, dân chúng sơ tán đến <strong>Karui Shores</strong>. <strong>Chỉ huy Kirac</strong> thành lập <strong>Citizen Vanguard</strong> — tình nguyện viên bình thường chán ngấy chuỗi ác mộng bất tận. Không phải lính, mà là các gia đình. Họ tiến hành cuộc chiến thiên thể bí mật trong Atlas, giữ các mối đe dọa bận rộn để chúng không chú ý đến Wraeclast.",
+            "flavorText": "\"Chúng tôi là câu trả lời của nhân dân trước sự điên loạn của Wraeclast. Đã đủ rồi tham nhũng, thần linh và độc tài.\" — Helena"
+        },
+        {
+            "icon": "🔥",
+            "title": "The Cleansing Fire & The Tangle",
+            "text": "Hai thực thể vũ trụ đến thách thức Maven giành Atlas. <strong>Cleansing Fire</strong> — bộ não khổng lồ của các mặt trời rực và sao đen — tìm kiếm toàn trí, hủy diệt mọi thứ nó nghiên cứu trong khi giữ thư viện các tâm trí bị giam. <strong>The Tangle</strong> — khối hữu cơ kinh hoàng gồm các sinh vật hợp nhất — vĩnh viễn nuốt và bị nuốt, mỗi miệng tuyệt vọng tìm cách thoát khỏi đau đớn.",
+            "flavorText": "\"Kẻ thù đông hơn các vì sao trên trời. Kẻ thù chính là các vì sao trên trời.\" — The Envoy"
+        },
+        {
+            "icon": "⚡",
+            "title": "Cuộc Chiến Atlas — Các Champion",
+            "text": "Maven đặt champion của mình (Exile) chống lại champion của mỗi thực thể. Từ Cleansing Fire: <strong>The Black Star</strong> (một neuron trong mạng sao) và <strong>The Searing Exarch</strong> (truyền bá Lời Giác Ngộ suốt hàng kỷ). Từ Tangle: <strong>The Infinite Hunger</strong> (mê cung dạ dày) và <strong>The Eater of Worlds</strong> (nuốt thế giới để thỏa mãn chủ nhân tuyệt vọng).",
+            "flavorText": "\"Champion chống champion. Phải như vậy thôi.\" — The Maven"
+        },
+        {
+            "icon": "🎉",
+            "title": "Chiến Thắng Của Maven",
+            "text": "Exile đánh bại cả bốn champion, củng cố quyền sở hữu Atlas cho Maven. Nhưng Envoy cảnh báo: <em>\"Đây chỉ là khởi đầu.\"</em> Kẻ thù vô số. Hiện tại, Maven kiểm soát Atlas và vui vẻ chơi đùa — vô tình giữ Wraeclast an toàn. <strong>Kirac</strong> thừa nhận đây là phương án tốt nhất trong những lựa chọn tồi tệ.",
+            "flavorText": "\"Ôi, thú vị quá! Chúng ta thắng rồi! Atlas là của chúng ta. Giờ tôi có thể chơi với bạn thân mãi mãi.\" — The Maven"
+        },
+        {
+            "icon": "🔍",
+            "title": "Bí Mật Atlas — Eagon Caeserius",
+            "text": "<strong>Eagon Caeserius</strong> — con ngoài giá thú của Valdo và em cùng cha khác mẹ của Zana — xuất hiện tại Atlas. Lớn lên trong gia đình nuôi giàu có, anh dành nhiều năm tìm hiểu dòng dõi thật. Anh phát hiện <strong>Zana là 'Originator'</strong> — bằng cách nào đó cô đã gắn kết bản thân vào cấu trúc Atlas, ký ức của cô tràn ra và tái tạo hiện thực. Qua các khe nứt thực tại, Eagon và Exile đuổi theo Zana xuyên ký ức.",
+            "flavorText": "\"Điều tôi thiếu về sức mạnh, tôi bù bằng trí thông minh và sự kiêu ngạo của dòng họ Caeserius.\" — Eagon"
+        },
+        {
+            "icon": "💔",
+            "title": "Kế Hoạch Của Zana & Lời Từ Biệt",
+            "text": "Đuổi theo Zana qua ký ức cô đơn, chấn thương và sự kính trọng dành cho cha, Exile phát hiện kế hoạch tuyệt vọng của Zana: cô định <strong>đan mình vĩnh viễn vào Atlas</strong> để canh giữ nó từ bên trong. Eagon cố ngăn cản, nhưng Zana kiên quyết. Cuối cùng, cô chọn hy sinh thay vì đoàn tụ — trở thành một với Atlas để bảo vệ nhân loại khỏi các mối đe dọa vũ trụ không bao giờ dừng.",
+            "flavorText": "\"Có lẽ Atlas đã bào mòn cả phần đó của tôi rồi.\" — Zana"
+        }
+    ],
+    "timeline": [
+        {
+            "date": "~1579 IC",
+            "title": "Valdo Caeserius Giải Phóng Elder",
+            "text": "Trưởng Arkhon <strong>Valdo</strong> bị Bóng Ma Elder lừa gạt khi sửa Map Device. High Templar <strong>Venarius</strong> ép họ vào Dreamlands và rút <strong>Starforge</strong> khỏi ngực Elder, giải phóng nó. Valdo thoát cùng con gái <strong>Zana</strong>, rồi quay lại một mình chiến đấu.",
+            "flavorText": "\"Con gái ta... Con gái yêu dấu của ta... Lạy các vị thần. Đã xảy ra bao nhiêu chuyện...\" — Valdo, Sách Ký Ức"
+        },
+        {
+            "date": "~1600 IC",
+            "title": "Cuộc Chiến Atlas",
+            "text": "<strong>Zana</strong> tái xây Map Device và chiêu mộ năm exile: <strong>Sirus, Baran, Al-Hezmin, Drox, Veritania</strong>. Họ truy đuổi <strong>Shaper</strong> (hình dạng méo mó của Valdo) và đối đầu Elder. Dùng <strong>Cosmic Arcana</strong>, họ phong ấn Elder — nhưng <strong>Sirus</strong> bị giam cùng nó.",
+            "flavorText": "\"Sirus nhảy lên nó. Chúng tôi thấy con quỷ hút vào thân anh... Cả hai biến mất.\" — Nhật Ký Baran"
+        },
+        {
+            "date": "Sau Cuộc Chiến",
+            "title": "Conquerors Phát Điên",
+            "text": "Atlas bào mòn tâm trí các exile còn lại. <strong>Al-Hezmin</strong> ám ảnh là giỏi nhất. <strong>Drox</strong> mơ về vương quốc. <strong>Veritania</strong> khinh bỉ tất cả. <strong>Baran</strong> xưng Thượng Đế. Zana phong ấn Atlas để ngăn họ — giam tất cả, kể cả Sirus trở về bí ẩn, trống rỗng và phẫn nộ.",
+            "flavorText": "\"Atlas làm những điều kỳ lạ với quá trình suy nghĩ... chính Atlas. Tôi chắc chắn thế.\" — Zana"
+        },
+        {
+            "date": "~1600–1601 IC",
+            "title": "Sirus Tấn Công Oriath — Sụp Đổ Lần Hai",
+            "text": "<strong>Sirus</strong> thoát Atlas và tấn công Oriath trong tuyệt vọng. Exile và 800 lính Vanguard đánh bại anh với tổn thất nặng nề. Oriath sơ tán đến <strong>Karui Shores</strong>. Zana, suy sụp sau cái chết của Sirus, bước vào Atlas và biến mất.",
+            "flavorText": "\"Em bỏ anh ở đó, Zana... hàng thế kỷ một mình trong Atlas... tất cả những gì anh muốn là cảm nhận được điều gì đó...\" — Sirus"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "Maven Đến — Tiếng Vọng Atlas",
+            "text": "Sự im lặng của Elder thu hút sự chú ý vũ trụ. <strong>The Maven</strong> — thực thể trẻ con siêu nhiên — đến cùng người bảo hộ <strong>The Envoy</strong> để chiếm Atlas làm sân chơi. Cô thu thập chiến binh làm đồ chơi, bao gồm cả các Conqueror, bắt họ chiến đấu bất tận cho trò vui.",
+            "flavorText": "\"Xung đột để tôi giải trí! Hãy xua tan buồn chán cho tôi. Giết cho tôi.\" — The Maven"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "Vây Hãm Atlas — Chiến Tranh Vũ Trụ",
+            "text": "Hai thực thể vũ trụ — <strong>Cleansing Fire</strong> và <strong>The Tangle</strong> — thách thức Maven giành Atlas. <strong>Kirac</strong> và Citizen Vanguard liên minh với Maven. Exile đánh bại champion của chúng: <strong>The Black Star, The Searing Exarch, The Infinite Hunger, The Eater of Worlds</strong>. Maven chiến thắng — tạm thời.",
+            "flavorText": "\"Hai kẻ thách đấu đã bị đẩy lùi. Nhưng đây chỉ là khởi đầu.\" — The Envoy"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "Bí Mật Atlas — Số Phận Zana",
+            "text": "<strong>Eagon Caeserius</strong> (con ngoài giá thú của Valdo) phát hiện Zana là <strong>Originator</strong> — ký ức cô đang tái tạo Atlas. Qua các khe nứt ký ức, Exile chứng kiến cuộc đời Zana. Cô dự định <strong>đan mình vĩnh viễn vào Atlas</strong>, trở thành người bảo hộ vĩnh cửu chống lại mối đe dọa vũ trụ.",
+            "flavorText": "\"Em gái yêu... Hãy làm những gì cần thiết, Exile. Cứu cô ấy khỏi nỗi kinh hoàng mà Atlas tạo ra từ ký ức!\" — Eagon"
+        }
+    ],
+    "summary": {
+        "title": "Atlas of Worlds — Kết Quả Chính",
+        "items": [
+            "✅ Elder bị phong ấn bởi nhóm Zana dùng Cosmic Arcana",
+            "✅ Sirus hy sinh giam Elder, sau trở lại trống rỗng và phẫn nộ",
+            "✅ Bốn Conqueror phát điên vì Atlas — bị giam bên trong",
+            "✅ Sirus bị đánh bại sau khi tấn công Oriath — di tản lần hai",
+            "✅ Maven chiếm Atlas, giữ các mối đe dọa vũ trụ bận rộn",
+            "✅ Champion của Cleansing Fire & Tangle bị đánh bại",
+            "✅ Eagon Caeserius — em cùng cha khác mẹ với Zana — xuất hiện",
+            "⚠️ Zana đan mình vào Atlas — số phận cô chính là Atlas",
+            "⚠️ Envoy cảnh báo: vô số thực thể khác sẽ đến",
+            "⚠️ Maven là thần trẻ con — khó đoán và nguy hiểm"
+        ]
+    }
+}

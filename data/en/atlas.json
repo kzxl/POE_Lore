@@ -1,0 +1,186 @@
+{
+    "era": "Endgame",
+    "title": "The Atlas of Worlds",
+    "subtitle": "ca. 1579–1601 IC — The Elder, The Conquerors, The Maven & The Siege",
+    "cards": [
+        {
+            "icon": "👁️",
+            "title": "The Elder — Child of Decay",
+            "text": "A creature of malignant madness, born of the oblivion before time. The <strong>Elder</strong> entered our realm, fashioning a 'bauble' of chaos and secret worlds — <strong>the Atlas</strong> — as its hunting ground. Preferring young prey, it dragged children into its shadow realm, feasting on their nightmares and imagination. With such sustenance, it sought to cultivate <strong>the Decay</strong> — the oblivion from outside time and space.",
+            "flavorText": "\"They called it the Elder. A creature of malignant madness, born of that oblivion from before time itself began.\" — Book of Memories"
+        },
+        {
+            "icon": "⚔️",
+            "title": "The Watchers of Decay",
+            "text": "A nameless god of Wraeclast endowed an <strong>Azmeri mother</strong> — who had lost her child to the Elder — with knowledge of its existence. She founded the <strong>Watchers of Decay</strong>, a sect of grieving parents who fought the creature. They built the <strong>Map Device</strong> to travel to its domain and forged <strong>Starforge</strong> — a blade that could divorce agency from form. They trapped the Elder in stone, starved and unable to hunt. But its essence roamed free...",
+            "flavorText": "\"One by one, they stood their ground against a creature they had no hope of understanding, let alone defeating, and one by one, they became a part of it.\" — Watcher's Eye"
+        },
+        {
+            "icon": "📖",
+            "title": "Valdo Caeserius & The Shade (1579 IC)",
+            "text": "<strong>Valdo Caeserius</strong>, chief Arkhon of the Oriath academy, was ordered by <strong>High Templar Venarius</strong> to repair a broken golden device found in Wraeclast ruins. While working, Valdo fell asleep and awoke in the <strong>Dreamlands</strong> — the Atlas. There he met a <strong>Shade</strong>, the Elder's disembodied spirit, who posed as the rightful king of the realm. The Shade offered help rebuilding the device's missing component in exchange for a future favor.",
+            "flavorText": "\"With the patience of a prowling lion, the Shade watched the Scholar.\" — Cyclopean Coil"
+        },
+        {
+            "icon": "😱",
+            "title": "The Elder Released",
+            "text": "When the Shade asked Valdo to pull <strong>Starforge</strong> from its petrified body, Valdo hesitated and fled. But <strong>Venarius</strong>, learning of the Dreamlands, took Valdo and his daughter <strong>Zana</strong> at knifepoint into the Atlas. Venarius pulled the sword without hesitation. <strong>The Elder burst free.</strong> It consumed Venarius and his men. Valdo fled with Zana through the portal, jammed the Map Device, and went back alone — determined to stop the Elder or die trying.",
+            "flavorText": "\"A single act of love and defiance may cascade destruction across the cosmos.\" — Cosmic Fragment"
+        },
+        {
+            "icon": "🗺️",
+            "title": "Zana Caeserius & The Map Device (ca. 1600 IC)",
+            "text": "Orphaned after Valdo's sacrifice, <strong>Zana</strong> grew up as an indentured servant. She rediscovered the Map Device during Oriath's rebuilding after Dominus fell. Using it, she entered the Atlas — a realm of dreamlike worlds connected through ancient maps. She discovered her father had become <strong>the Shaper</strong>, his mind consumed by the Elder, endlessly creating twisted worlds.",
+            "flavorText": "\"I first started exploring the Atlas as a way to grow closer to my estranged father. I had no idea just how close I would get to him...\" — Zana"
+        },
+        {
+            "icon": "👥",
+            "title": "Recruiting the Exiles",
+            "text": "Zana assembled a secret team of exiles: <strong>Sirus</strong> (leader), <strong>Baran</strong> (Templar faithful), <strong>Al-Hezmin</strong> (hunter), <strong>Drox</strong> (commander), and <strong>Veritania</strong> (humanitarian). Together they explored the Atlas, pursuing the Shaper and investigating the Elder. The group grew close — Zana and Sirus developed feelings for each other.",
+            "flavorText": "\"Sirus was the leader of the group of Exiles I recruited. Brilliant and determined... We grew close.\" — Zana"
+        },
+        {
+            "icon": "💀",
+            "title": "The Final Battle Against the Elder",
+            "text": "Using Valdo's weapon — the <strong>Cosmic Arcana</strong> — found in his secret study, Zana's group confronted the Elder at the Atlas center. The device forced the Elder from physical form, but it clung to reality. <strong>Sirus leapt onto the creature</strong>, and both spiraled into the trap, seemingly lost forever. The Elder was sealed, but at the cost of Sirus's life — and Valdo's last memories of Zana.",
+            "flavorText": "\"The Elder fed on all that gave life meaning until it encountered an unbreakable bond.\" — Decayed Voidstone"
+        },
+        {
+            "icon": "🌀",
+            "title": "The Nature of the Atlas",
+            "text": "The Atlas is not mere geography — it is a <strong>dreamlike realm</strong> that reflects the desires and expectations of those within it. It offers up your wildest wishes while slowly eroding sanity. The land undulates and shifts, growing seasons of <em>stone, structure, growth, madness, and chaos</em>. Memories echo forever within. Even the dead linger. The Atlas is humanity's greatest defense against eldritch threats — yet also its most dangerous trap.",
+            "flavorText": "\"Like stepping into a dream...\" — Duelist, on entering first map"
+        },
+        {
+            "icon": "🏹",
+            "title": "Al-Hezmin, The Hunter",
+            "text": "Al-Hezmin mastered the ever-changing Atlas terrain. But his drive to always be the best — hunting more, striking flashier — consumed him. His <strong>fixation hollowed him out</strong>, making him desperately afraid of being second best. He was never unkind to Zana, but his rivalry with Drox became inevitable. As madness crept in, he could no longer tell reality from illusion.",
+            "flavorText": "\"Are you even real? I can't tell anymore.\" — Al-Hezmin"
+        },
+        {
+            "icon": "👑",
+            "title": "Drox, The Warlord",
+            "text": "The group's battlefield commander, Drox became obsessed with <strong>building a kingdom</strong> in the Atlas — free from Templar tyranny. But control in the Atlas is an illusion. He grew cold and distant, fixated on securing valleys that reshaped themselves the moment he moved on. His warm grin turned to a scowl as he imagined phantom subjects cheering his golden reign.",
+            "flavorText": "\"Hahaha! Glorious freedom. Violence. Death! This is our promised land!\" — Drox"
+        },
+        {
+            "icon": "❄️",
+            "title": "Veritania, The Redeemer",
+            "text": "Originally exiled for her <strong>charity work</strong> with mistreated Maraketh and Karui, Veritania's clarity of mind was invaluable during the campaign. But her mind broke in a different way — her restraint became <strong>contempt</strong>. She judged all others as repugnant, filled with vice, and appointed herself the moral heart of the Atlas, purging those she deemed unworthy.",
+            "flavorText": "\"Welcome! Time has no meaning here. Your pain will be endless.\" — Veritania"
+        },
+        {
+            "icon": "✝️",
+            "title": "Baran, The Crusader",
+            "text": "Despite everything the Templar put him through, <strong>Baran's faith was unshaken</strong>. He and Zana had late-night debates about science and spirituality. But once the madness set in, respect vanished. He accused Zana of being sent by a demon and declared himself <strong>God, Creator and Shaper of Worlds</strong>. His brother <strong>Kirac</strong> would later blame Zana for consigning Baran to eternal madness.",
+            "flavorText": "\"You seek the light, and you have found it. I am become God, Creator and Shaper of Worlds.\" — Baran"
+        },
+        {
+            "icon": "🌪️",
+            "title": "Sirus, The Awakener",
+            "text": "Sirus survived his sacrifice against the Elder — trapped in glass, watching his friends leave. He returned <strong>incomplete</strong>, his essence stolen. For a subjective eternity he felt <em>nothing</em> — no joy, pain, or desire. He built a Map Device inside the Atlas to escape, creating a devastating storm. When Zana sealed the Atlas, she unknowingly condemned him to centuries of isolation.",
+            "flavorText": "\"You left me there, Zana... centuries alone in the Atlas... all I wanted was to feel something again...\" — Sirus, on his death"
+        },
+        {
+            "icon": "🔮",
+            "title": "The Envoy & The Maven",
+            "text": "When the Elder's silence echoed across the cosmos, new entities turned their gaze toward the Atlas. <strong>The Envoy</strong> — once a man, once a father — serves as guardian and prison for <strong>The Maven</strong>, a childlike cosmic entity bred to test the limits of limitless power. She escaped her cosmic prison when the Elder's silence deafened all sentries. She seeks conflict, collecting warriors as toys.",
+            "flavorText": "\"She is but a petulant infant, subject to the whims of her desires and unaware of her own strength.\" — The Envoy"
+        },
+        {
+            "icon": "🛡️",
+            "title": "The Citizen Vanguard & Kirac",
+            "text": "After Sirus devastated Oriath, the people evacuated to <strong>Karui Shores</strong>. <strong>Commander Kirac</strong> formed the <strong>Citizen Vanguard</strong> — ordinary volunteers tired of the endless parade of doom. Not soldiers, but families. They wage a secret celestial war in the Atlas, keeping eldritch threats occupied so they don't notice Wraeclast.",
+            "flavorText": "\"We are the people's response to the madness of Wraeclast. We've had enough of corruption, gods, and would-be dictators.\" — Helena"
+        },
+        {
+            "icon": "🔥",
+            "title": "The Cleansing Fire & The Tangle",
+            "text": "Two cosmic entities arrived to challenge the Maven for the Atlas. <strong>The Cleansing Fire</strong> — a colossal brain of blazing suns and black stars — seeks omniscience, disintegrating everything it studies while keeping a library of trapped minds. <strong>The Tangle</strong> — a horrific mass of merged organic beings — eternally consumes and is consumed, each mouth desperate for escape from pain.",
+            "flavorText": "\"The enemies outnumber the stars in the sky. The enemies are the stars in the sky.\" — The Envoy"
+        },
+        {
+            "icon": "⚡",
+            "title": "The Battle for the Atlas — Champions",
+            "text": "The Maven pitted her champion (the Exile) against champions of each entity. From the Cleansing Fire: <strong>The Black Star</strong> (a single neuron in a web of stars) and <strong>The Searing Exarch</strong> (who spread the Word of Enlightenment for eons). From the Tangle: <strong>The Infinite Hunger</strong> (a labyrinth of stomachs) and <strong>The Eater of Worlds</strong> (devouring worlds to satiate desperate masters).",
+            "flavorText": "\"Champion against champion. So it must be.\" — The Maven"
+        },
+        {
+            "icon": "🎉",
+            "title": "The Maven's Victory",
+            "text": "The Exile defeated all four champions, solidifying the Maven's claim on the Atlas. But the Envoy warned: <em>\"This was merely the beginning.\"</em> The enemies are countless. For now, the Maven controls the Atlas and is content to play — keeping Wraeclast safe by accident. <strong>Kirac</strong> acknowledges this is the best of terrible options.",
+            "flavorText": "\"Oh, what a delight! We've won! The Atlas is ours. Now I can play with my best friend, forever.\" — The Maven"
+        },
+        {
+            "icon": "🔍",
+            "title": "Secrets of the Atlas — Eagon Caeserius",
+            "text": "<strong>Eagon Caeserius</strong> — Valdo's bastard son and Zana's half-brother — arrives at the Atlas. Raised by a foster family, he spent years uncovering his true lineage. He discovers that <strong>Zana is the 'Originator'</strong> — she has somehow entangled herself with the Atlas fabric, her memories spilling over and reshaping reality. Through tears in reality, Eagon and the Exile chase Zana through her memories.",
+            "flavorText": "\"What I lack in sheer strength, I make up for with Caeserius wit and arrogance.\" — Eagon"
+        },
+        {
+            "icon": "💔",
+            "title": "Zana's Plan & Farewell",
+            "text": "Pursuing Zana through memories of her loneliness, trauma, and reverence for her father, the Exile discovers Zana's desperate plan: she intends to <strong>weave herself permanently into the Atlas</strong> to guard it from within. Eagon tries to stop her, but Zana is resolute. In the end, she chooses sacrifice over reunion — becoming one with the Atlas to protect humanity from the cosmic threats that never stop coming.",
+            "flavorText": "\"Perhaps the Atlas has eroded that part of me, as well.\" — Zana"
+        }
+    ],
+    "timeline": [
+        {
+            "date": "~1579 IC",
+            "title": "Valdo Caeserius Releases The Elder",
+            "text": "Chief Arkhon <strong>Valdo</strong> is deceived by the Elder's Shade while repairing the Map Device. High Templar <strong>Venarius</strong> forces them into the Dreamlands and pulls <strong>Starforge</strong> from the Elder's chest, freeing it. Valdo escapes with daughter <strong>Zana</strong>, then returns alone to fight.",
+            "flavorText": "\"My daughter... My darling daughter... By the gods. So much has transpired...\" — Valdo, Book of Memories"
+        },
+        {
+            "date": "~1600 IC",
+            "title": "The War for the Atlas",
+            "text": "<strong>Zana</strong> rebuilds the Map Device and recruits five exiles: <strong>Sirus, Baran, Al-Hezmin, Drox, Veritania</strong>. They pursue the <strong>Shaper</strong> (Valdo's twisted form) and confront the Elder. Using the <strong>Cosmic Arcana</strong>, they seal the Elder — but <strong>Sirus</strong> is trapped with it.",
+            "flavorText": "\"Sirus leapt onto it. We saw the demon tap into his body... Both gone.\" — Baran's Journal"
+        },
+        {
+            "date": "After the War",
+            "title": "The Conquerors Go Mad",
+            "text": "The Atlas erodes the minds of the remaining exiles. <strong>Al-Hezmin</strong> obsesses over being the best. <strong>Drox</strong> dreams of a kingdom. <strong>Veritania</strong> becomes contemptuous of all. <strong>Baran</strong> declares himself God. Zana seals the Atlas to stop them — trapping everyone, including Sirus who mysteriously returns, hollow and enraged.",
+            "flavorText": "\"The Atlas does strange things to one's thought processes... it's the Atlas itself. I'm sure of it.\" — Zana"
+        },
+        {
+            "date": "~1600–1601 IC",
+            "title": "Sirus Attacks Oriath — The Second Fall",
+            "text": "<strong>Sirus</strong> escapes the Atlas and attacks Oriath in despair. The Exile and 800 Vanguard soldiers defeat him at great cost. Oriath is evacuated to <strong>Karui Shores</strong>. Zana, devastated by Sirus's death, walks off into the Atlas and disappears.",
+            "flavorText": "\"You left me there, Zana... centuries alone in the Atlas... all I wanted was to feel something again...\" — Sirus"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "The Maven Arrives — Echoes of the Atlas",
+            "text": "The Elder's silence draws cosmic attention. <strong>The Maven</strong> — a childlike eldritch entity — arrives with her guardian <strong>The Envoy</strong> to claim the Atlas as her playground. She collects warriors as toys, including the Conquerors, forcing them to fight endlessly for her amusement.",
+            "flavorText": "\"Conflict for my entertainment! Relieve my boredom. Kill for me.\" — The Maven"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "Siege of the Atlas — Cosmic War",
+            "text": "Two cosmic entities — <strong>The Cleansing Fire</strong> and <strong>The Tangle</strong> — challenge the Maven for the Atlas. <strong>Kirac</strong> and the Citizen Vanguard ally with the Maven. The Exile defeats their champions: <strong>The Black Star, The Searing Exarch, The Infinite Hunger, The Eater of Worlds</strong>. The Maven wins — for now.",
+            "flavorText": "\"Two claimants have been turned away. But this was merely the beginning.\" — The Envoy"
+        },
+        {
+            "date": "~1601 IC",
+            "title": "Secrets of the Atlas — Zana's Fate",
+            "text": "<strong>Eagon Caeserius</strong> (Valdo's bastard son) discovers Zana is the <strong>Originator</strong> — her memories are reshaping the Atlas. Through memory tears, the Exile witnesses Zana's life. She plans to <strong>weave herself into the Atlas permanently</strong>, becoming its eternal guardian against cosmic threats.",
+            "flavorText": "\"Sweet sister... Do what you must, Exile. Save her from whatever horror the Atlas makes of her memory!\" — Eagon"
+        }
+    ],
+    "summary": {
+        "title": "Atlas of Worlds — Key Outcomes",
+        "items": [
+            "✅ The Elder sealed by Zana's team using the Cosmic Arcana",
+            "✅ Sirus sacrificed himself to trap the Elder, later returned hollow",
+            "✅ All four Conquerors fell to Atlas madness — trapped inside",
+            "✅ Sirus defeated after attacking Oriath — second evacuation",
+            "✅ The Maven claimed the Atlas, keeping cosmic threats occupied",
+            "✅ Champions of The Cleansing Fire & The Tangle defeated",
+            "✅ Eagon Caeserius discovered as Zana's half-brother",
+            "⚠️ Zana wove herself into the Atlas — her fate is the Atlas itself",
+            "⚠️ The Envoy warns: countless more entities will come",
+            "⚠️ The Maven is a childlike god — unpredictable and dangerous"
+        ]
+    }
+}

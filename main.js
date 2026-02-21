@@ -8,6 +8,7 @@ import vaalVi from './data/vi/vaal.json';
 import eternalVi from './data/vi/eternal.json';
 import modernVi from './data/vi/modern.json';
 import poe2Vi from './data/vi/poe2.json';
+import atlasVi from './data/vi/atlas.json';
 import itemsVi from './data/vi/items.json';
 import worldVi from './data/vi/world.json';
 import npcsVi from './data/vi/npcs.json';
@@ -19,17 +20,18 @@ import vaalEn from './data/en/vaal.json';
 import eternalEn from './data/en/eternal.json';
 import modernEn from './data/en/modern.json';
 import poe2En from './data/en/poe2.json';
+import atlasEn from './data/en/atlas.json';
 import itemsEn from './data/en/items.json';
 import worldEn from './data/en/world.json';
 import npcsEn from './data/en/npcs.json';
 
 const DATA = {
     vi: {
-        lore: { origin: originVi, winter: winterVi, vaal: vaalVi, eternal: eternalVi, modern: modernVi, poe2: poe2Vi, items: itemsVi, world: worldVi },
+        lore: { origin: originVi, winter: winterVi, vaal: vaalVi, eternal: eternalVi, modern: modernVi, poe2: poe2Vi, atlas: atlasVi, items: itemsVi, world: worldVi },
         npcs: npcsVi,
     },
     en: {
-        lore: { origin: originEn, winter: winterEn, vaal: vaalEn, eternal: eternalEn, modern: modernEn, poe2: poe2En, items: itemsEn, world: worldEn },
+        lore: { origin: originEn, winter: winterEn, vaal: vaalEn, eternal: eternalEn, modern: modernEn, poe2: poe2En, atlas: atlasEn, items: itemsEn, world: worldEn },
         npcs: npcsEn,
     },
 };
@@ -42,6 +44,7 @@ const NAV = {
         { id: 'eternal', label: 'Đế Chế' },
         { id: 'modern', label: 'Hiện Đại' },
         { id: 'poe2', label: 'POE 2' },
+        { id: 'atlas', label: 'Atlas' },
         { id: 'items', label: 'Vật Phẩm' },
         { id: 'npcs', label: 'Nhân Vật' },
         { id: 'world', label: 'Thế Giới' },
@@ -53,6 +56,7 @@ const NAV = {
         { id: 'eternal', label: 'Empire' },
         { id: 'modern', label: 'Modern' },
         { id: 'poe2', label: 'POE 2' },
+        { id: 'atlas', label: 'Atlas' },
         { id: 'items', label: 'Items' },
         { id: 'npcs', label: 'NPCs' },
         { id: 'world', label: 'World' },
@@ -303,7 +307,7 @@ function render() {
     const lore = getLore();
 
     // Separate NPC section — inserted between items and world
-    const sectionOrder = ['origin', 'winter', 'vaal', 'eternal', 'modern', 'poe2', 'items'];
+    const sectionOrder = ['origin', 'winter', 'vaal', 'eternal', 'modern', 'poe2', 'atlas', 'items'];
     let sections = sectionOrder
         .filter((k) => lore[k])
         .map((k) => renderSection(k, lore[k]))
