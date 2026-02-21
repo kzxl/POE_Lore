@@ -1,0 +1,14 @@
+{
+  "name": "poe-lore",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tổng hợp lore game Path of Exile bằng tiếng Việt",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
