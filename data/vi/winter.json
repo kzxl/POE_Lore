@@ -1,0 +1,43 @@
+{
+    "era": "Kỷ II",
+    "title": "Kỷ Nguyên Tuyệt Vọng",
+    "subtitle": "Đại Hỏa — Mùa Đông Thế Giới — Cuộc Chiến Với Bóng Tối",
+    "cards": [
+        {
+            "icon": "🔥",
+            "title": "Đại Hỏa — Sự Sụp Đổ của Precursors",
+            "text": "Một <strong>đại hỏa hoạn</strong> quét qua toàn bộ Wraeclast — <em>\"từ bắc đến nam, biển lửa cuồn cuộn\"</em>. Precursors bị diệt vong. Vũ Khí (Sắc Lệnh Thứ Ba) <strong>chưa kịp hoàn thành</strong>. Một <strong>nữ khoa học gia</strong> cố hoàn thành nó — ném các mảnh xuống biển, nhưng <strong>chết vì thương tích</strong>.",
+            "flavorText": "\"Sau ngọn lửa, bầu trời chuyển xám, tro bắt đầu rơi, và cái lạnh ập đến...\" — Grip of Winter"
+        },
+        {
+            "icon": "❄️",
+            "title": "Mùa Đông Thế Giới",
+            "text": "<strong>1.000 năm băng giá</strong> — Maraketh gọi đó là Mùa Đông Thế Giới, Karui gọi là Đại Hoang Tàn. <em>\"Đồng bằng tươi đẹp trở nên hoang tàn và không ánh sáng\"</em>. Mỗi bộ tộc có câu chuyện riêng: lửa lớn, thế kỷ cằn cỗi, mùa đông bất tận.",
+            "flavorText": "\"Sự thật nằm chôn vùi trong tất cả những câu chuyện ấy. Có một thời cổ đại đầy kinh hoàng và đói khát.\" — Matiki"
+        },
+        {
+            "icon": "👹",
+            "title": "Lightless — Sinh Vật Từ Giếng Linh Hồn",
+            "text": "<strong>Lightless (Abyssals)</strong> — sinh vật được tạo ra, không phải sinh ra. <em>\"Mỗi khoảnh khắc trong ánh sáng là sự đau đớn.\"</em> Phục vụ <strong>Kulemak, Chúa Tể Lich</strong>. Nguồn sức mạnh: <strong>Well of Souls</strong> — giếng linh hồn sâu thẳm, nguồn gốc mọi necromancy. <em>\"Từ mọi nơi, mọi con đường, Giếng vẫn ở phía dưới.\"</em>",
+            "flavorText": "\"Không có sự lãng quên. Chỉ có tiếng la hét. Mãi mãi.\" — Lurking Creature"
+        },
+        {
+            "icon": "🤝",
+            "title": "Hiệp Ước Thứ Ba — Liên Minh Chống Bóng Tối",
+            "text": "Trong cơn tuyệt vọng, <strong>tất cả sự sống</strong> liên minh: người, rắn, linh cẩu, golem — kẻ thù truyền kiếp <strong>nắm tay nhau</strong> chống Abyssals. <strong>Hiệp Ước Thứ Ba</strong> ra đời. Sin trích xuất <strong>Divinity</strong> của Kulemak, vô hiệu hóa hắn. The Dreamer nhận một giọt máu từ mỗi chủng tộc.",
+            "flavorText": "\"Dù là rắn, linh cẩu, con người hay golem, kẻ thù truyền kiếp nắm tay giao kèo, xây nơi ẩn náu, và chiến đấu bên nhau.\" — Against the Darkness"
+        },
+        {
+            "icon": "☀️",
+            "title": "Solerai & Lundara — Trở Lại Ánh Sáng",
+            "text": "Hai Sekhema song sinh — <strong>Solerai</strong> (vàng) và <strong>Lundara</strong> (bạc) — thống nhất Maraketh. <em>\"Chỉ một nhát, Solerai kết thúc Mùa Đông Thế Giới.\"</em> Lightless rút lui xuống cát, không bao giờ xuất hiện lại. Solerai có thể chính là <strong>Solaris</strong>, Lundara là <strong>Lunaris</strong>.",
+            "flavorText": "\"Khi hy vọng chỉ còn là ký ức, hai Sekhema song sinh trỗi dậy thống nhất dân tộc tan tác.\" — Zarka"
+        },
+        {
+            "icon": "⚔️",
+            "title": "Sự Trỗi Dậy Của Các Vị Thần",
+            "text": "Từ đống tro tàn, <strong>các vị thần xuất hiện</strong>. Người Karui có <strong>Tukohama</strong> thống nhất các bộ tộc, <strong>Tawhoa</strong> trấn an mặt đất, <strong>Valako</strong> thuần hóa bầu trời. <em>\"Có một thời đói khát, lửa, và tuyệt vọng... rồi các vị thần trỗi dậy từ tro tàn.\"</em>",
+            "flavorText": "\"Tukohama không chỉ mang bạo lực. Ông mang hy vọng. Hy vọng cho tất cả các bộ tộc.\" — Matiki"
+        }
+    ]
+}

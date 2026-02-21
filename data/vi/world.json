@@ -1,0 +1,224 @@
+{
+    "era": "Phụ Lục",
+    "title": "Thế Giới Wraeclast & Các Dân Tộc",
+    "subtitle": "Văn hóa, lịch sử, và trí tuệ của các dân tộc",
+    "cards": [
+        {
+            "icon": "🏔️",
+            "title": "Azmeri — Dân Núi & Draíocht",
+            "text": "Dân tộc lâu đời nhất còn tồn tại. <strong>Lord's Trial</strong> — phép thử chọn thủ lĩnh bằng sức mạnh, trí tuệ, tinh thần. Thờ <strong>Draíocht</strong> — Nữ Thần ba ngôi (<strong>Mhacha</strong> — tự nhiên, <strong>Catha</strong> — thiện/ác, <strong>Mórrigan</strong> — dũng cảm). <strong>Maji</strong> là linh mục Azmeri.",
+            "flavorText": "\"Đừng làm mặt đất xáo động, nó giữ bí mật tốt hơn khi không ai biết.\" — Tục ngữ Azmeri"
+        },
+        {
+            "icon": "🏜️",
+            "title": "Maraketh — Nữ Chiến Binh Sa Mạc",
+            "text": "Xã hội <strong>mẫu hệ</strong> — Sekhema là thủ lĩnh. <strong>Tale-women</strong> — kể chuyện, giữ gìn lịch sử, một số thành thạo <strong>chronomancy</strong> (phép thời gian). Hệ thống <strong>Djinn</strong> — tội nhân bị trích xuất linh hồn, giam trong barya. <em>\"Vinh dự Mẹ, Vinh dự Sự Sống\"</em> — giới luật quan trọng nhất.",
+            "flavorText": "\"Vua sẽ đổ, đế chế sẽ sụp, phàm nhân sẽ chết. Tất cả thành đất và cát.\" — Tục ngữ Maraketh"
+        },
+        {
+            "icon": "⚔️",
+            "title": "Karui — Chiến Binh & Makanui (The Way)",
+            "text": "<strong>Ngakuramakoi</strong> — không cần máu Karui, chỉ cần theo Way. Phép thử trưởng thành: trèo <strong>Isle of Shrikes</strong> lấy trứng. Nguyên tắc: <em>\"Bảo vệ đất, nó nuôi dưỡng ta. Đi tới, bộ tộc sau tìm thấy nơi nguyên vẹn.\"</em> Cấm dùng Virtue Gems. Xăm = chiến công.",
+            "flavorText": "\"Phụ nữ Karui không thuộc chiến trường, mà thuộc bếp lửa. Hyrri thay đổi tất cả.\" — Hyrri's Demise"
+        },
+        {
+            "icon": "🗿",
+            "title": "Ezomyte — Rune & Bài Ca",
+            "text": "Giữ lịch sử bằng <strong>bài ca</strong>, không phải sách. <strong>Runes</strong> được <em>\"người lạ\"</em> mang đến — <em>\"Có cơn bão lớn, có nhu cầu lớn, nếu không kẻ ướt sẽ chết.\"</em> <strong>Agnar</strong> — kiếm rune cổ xưa của thủ lĩnh clan. <strong>Druids</strong> — Cirel of Tarth đón định cư đầu tiên, trồng pháo đài <strong>Taisce</strong>.",
+            "flavorText": "\"Đá không phải đá, nó chỉ là một phần của pháo đài.\" — Tục ngữ Ezomyte"
+        },
+        {
+            "icon": "🌊",
+            "title": "Vaal — Kiến Trúc Sư & Hiến Tế",
+            "text": "Sinh từ <strong>Xibaqua</strong>. <em>\"Tự hào với mỗi đền đài, coi mỗi ngôi đền là minh chứng cho thần... rồi cho chính mình.\"</em> Quan hệ chủ-nô <em>\"thân mật và bất ổn như tình nhân.\"</em> Thờ hòa bình nhưng không ai dám khiêu khích.",
+            "flavorText": "\"Dù người Vaal tôn thờ hòa bình, bất kỳ nền văn hóa nào khiêu khích họ đều là tự sát.\" — Icius Perandus"
+        }
+    ],
+    "locations": {
+        "headers": [
+            "Địa điểm",
+            "Mô tả",
+            "Ý nghĩa"
+        ],
+        "rows": [
+            [
+                "Sarn",
+                "Thủ đô Đế Chế, giờ hoang tàn tràn Undying",
+                "Act 3, 8"
+            ],
+            [
+                "Oriath",
+                "Đảo quốc Templar — sụp đổ sau Kitava",
+                "Act 5, 10"
+            ],
+            [
+                "Lioneye's Watch",
+                "Pháo đài tướng Lioneye",
+                "Act 1 Town"
+            ],
+            [
+                "Highgate",
+                "Làng Maraketh cạnh The Beast",
+                "Act 4, 9"
+            ],
+            [
+                "Ogham",
+                "Quê hương lâu đời nhất Ezomyte",
+                "POE 2 Act 1"
+            ],
+            [
+                "Vastiri Plains",
+                "Đồng bằng Maraketh — từng xanh tươi, nay sa mạc",
+                "Act 9, POE 2 Act 2"
+            ],
+            [
+                "Utzaal",
+                "Thành phố Vaal — giờ Cenobites chiếm giữ",
+                "POE 2 Act 3"
+            ],
+            [
+                "Ngamakanui",
+                "Quần đảo Karui — Way nơi nào, Ngamakanui nơi đó",
+                "POE 2 Act 4"
+            ],
+            [
+                "Lake of Kalandra",
+                "Cõi giam giữ Kalandra — ngoài Wraeclast",
+                "Kalandra League"
+            ],
+            [
+                "Well of Souls",
+                "Nguồn gốc mọi Necromancy — sâu bên dưới",
+                "Abyssals, Lightless"
+            ],
+            [
+                "Atlas of Worlds",
+                "Mạng lưới thế giới song song",
+                "Endgame"
+            ],
+            [
+                "Azurite Mine",
+                "Mỏ sâu vô tận chứa di tích Precursors",
+                "Delve"
+            ]
+        ]
+    },
+    "races": {
+        "headers": [
+            "Dân tộc",
+            "Đặc điểm",
+            "Lịch sử"
+        ],
+        "rows": [
+            [
+                "Precursors",
+                "Nền văn minh đầu tiên, tạo hệ thống tháp",
+                "Bị Đại Hỏa diệt vong"
+            ],
+            [
+                "Primevals",
+                "Dân tộc ngầm — Uzaza (First King), Aul (Last King)",
+                "Bị Lightless tiêu diệt trong Azurite Mine"
+            ],
+            [
+                "Azmeri",
+                "Sáng lập Đế Chế, thờ Draíocht",
+                "Sống sót Mùa Đông nhờ núi — văn hóa lâu đời nhất"
+            ],
+            [
+                "Karui",
+                "Chiến binh, Makanui (The Way), cấm gems",
+                "Bị nô dịch, nổi dậy cùng Kaom & Hyrri"
+            ],
+            [
+                "Maraketh",
+                "Mẫu hệ, du mục, tale-women, Sekhema",
+                "Solerai & Lundara kết thúc Mùa Đông"
+            ],
+            [
+                "Ezomyte",
+                "Runes, bài ca, Druids, pháo đài Taisce",
+                "Bị nô lệ bởi Đế Chế, Rigwald nổi dậy"
+            ],
+            [
+                "Vaal",
+                "Kiến trúc, thaumaturgy máu, hiến tế",
+                "Atziri & Doryani gây Đại Thảm Họa"
+            ],
+            [
+                "Kalguur",
+                "Thương nhân ngoại quốc",
+                "Thuộc địa hóa Wraeclast sau Vaal sụp đổ"
+            ],
+            [
+                "Trarthans",
+                "Thành bang thương mại, hệ thống House",
+                "Merchant Wars, House Keita/Cyaxan/Azadi"
+            ]
+        ]
+    },
+    "uniques": {
+        "headers": [
+            "Vật phẩm",
+            "Loại",
+            "Câu chuyện",
+            "Flavor Text"
+        ],
+        "rows": [
+            [
+                "Kaom's Heart",
+                "Giáp",
+                "+500 HP — Sức mạnh thuần túy Karui, không cần phép thuật.",
+                "\"Chiến thắng không nằm trong nắm đấm, mà trong máu Karui.\""
+            ],
+            [
+                "Starforge",
+                "Kiếm 2 Tay",
+                "Kiếm giam giữ The Elder. Venarius rút kiếm giải phóng Elder.",
+                "\"Ngôi sao rèn thành kiếm, giữ bóng tối trong lưỡi thép.\""
+            ],
+            [
+                "Atziri's Mirror",
+                "Khiên",
+                "Biểu tượng sự phù phiếm Nữ Hoàng Vaal.",
+                "\"Atziri thấy gì trong gương? Chỉ có sắc đẹp vĩnh hằng.\""
+            ],
+            [
+                "Headhunter",
+                "Đai",
+                "Giết rare hấp thụ mods — triết lý chiến binh nguyên thủy.",
+                "\"Một đời săn lùng. Một cái chết nhớ lại.\""
+            ],
+            [
+                "Mageblood",
+                "Đai",
+                "Kết nối dòng máu phép thuật. Flask tự động.",
+                "\"Máu ta chảy, flask ta uống, phép thuật ta thở.\""
+            ],
+            [
+                "Rebuke of the Vaal",
+                "Kiếm",
+                "Dù tôn thờ hòa bình, ai khiêu khích Vaal đều tự sát.",
+                "\"Dù người Vaal tôn thờ hòa bình, bất kỳ nền văn hóa nào rõ ràng sẽ là tự sát.\""
+            ],
+            [
+                "Aul's Uprising",
+                "Bùa",
+                "Aul — Last King of Primevals, lãnh đạo giỏi hơn chiến đấu.",
+                "\"Không phải sự dũng cảm, mà khả năng lãnh đạo mang lại vương miện cho Aul.\""
+            ],
+            [
+                "Clayshaper",
+                "Búa",
+                "Ahkeli — thợ đất sét Primeval — chạy trốn sự hủy diệt.",
+                "\"Không có gì, thể xác, linh hồn, hay đá, thoát khỏi cơn khát thống trị.\""
+            ],
+            [
+                "Darkness Enthroned",
+                "Đai",
+                "Kulemak ngồi đắc thắng, nâng vương miện. Bóng tối quấn thế giới.",
+                "\"Chiến thắng chỉ là khoảnh khắc, rồi sụp đổ. Không kẻ chinh phục, không kẻ bại, chỉ Ánh Sáng thiêu đốt.\""
+            ]
+        ]
+    }
+}

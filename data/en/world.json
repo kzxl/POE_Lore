@@ -1,0 +1,224 @@
+{
+    "era": "Appendix",
+    "title": "The World of Wraeclast & Its Peoples",
+    "subtitle": "Cultures, history, and wisdom of the races",
+    "cards": [
+        {
+            "icon": "🏔️",
+            "title": "Azmeri — Mountain Folk & Draíocht",
+            "text": "The oldest surviving civilization. <strong>Lord's Trial</strong> — a test for choosing leaders through strength, wit, and spirit. Worship <strong>Draíocht</strong> — the Triple Goddess (<strong>Mhacha</strong> — nature, <strong>Catha</strong> — good/evil, <strong>Mórrigan</strong> — courage). <strong>Maji</strong> serve as Azmeri priests.",
+            "flavorText": "\"Do not disturb the earth, it keeps secrets better when no one knows.\" — Azmeri proverb"
+        },
+        {
+            "icon": "🏜️",
+            "title": "Maraketh — Desert Warrior Women",
+            "text": "A <strong>matriarchal</strong> society — Sekhema is the leader. <strong>Tale-women</strong> — storytellers, keepers of history, some skilled in <strong>chronomancy</strong> (time magic). <strong>Djinn</strong> system — criminals have their souls extracted and imprisoned in barya. <em>\"Honour the Mother, Honour Life\"</em> — their most sacred tenet.",
+            "flavorText": "\"Kings will fall, empires will crumble, mortals will die. All becomes dust and sand.\" — Maraketh proverb"
+        },
+        {
+            "icon": "⚔️",
+            "title": "Karui — Warriors & Makanui (The Way)",
+            "text": "<strong>Ngakuramakoi</strong> — no Karui blood required, only The Way. Coming-of-age trial: climb the <strong>Isle of Shrikes</strong> to retrieve an egg. Principle: <em>\"Protect the land, it nourishes us. Go forward, the next tribe finds it whole.\"</em> Gems forbidden. Tattoos = achievements.",
+            "flavorText": "\"Karui women do not belong on the battlefield, but at the hearth fire. Hyrri changed everything.\" — Hyrri's Demise"
+        },
+        {
+            "icon": "🗿",
+            "title": "Ezomyte — Runes & Song",
+            "text": "History kept through <strong>song</strong>, not written records. <strong>Runes</strong> were brought by <em>\"strangers\"</em> — <em>\"There was a great storm, a great need, lest the soaked ones die.\"</em> <strong>Agnar</strong> — ancient rune-sword of the clan chief. <strong>Druids</strong> — Cirel of Tarth welcomed the first settlers, grew the fortress <strong>Taisce</strong>.",
+            "flavorText": "\"The stone is not a stone, it is merely part of a fortress.\" — Ezomyte proverb"
+        },
+        {
+            "icon": "🌊",
+            "title": "Vaal — Architects & Sacrifice",
+            "text": "Born from <strong>Xibaqua</strong>. <em>\"Proud of every temple, seeing each shrine as proof of gods... then of themselves.\"</em> Master-slave relations were <em>\"intimate and volatile as lovers.\"</em> They worshipped peace but none dared provoke them.",
+            "flavorText": "\"Though the Vaal worshipped peace, any culture that provoked them was clearly suicidal.\" — Icius Perandus"
+        }
+    ],
+    "locations": {
+        "headers": [
+            "Location",
+            "Description",
+            "Significance"
+        ],
+        "rows": [
+            [
+                "Sarn",
+                "Empire capital, now ruins flooded with Undying",
+                "Act 3, 8"
+            ],
+            [
+                "Oriath",
+                "Templar island nation — collapsed after Kitava",
+                "Act 5, 10"
+            ],
+            [
+                "Lioneye's Watch",
+                "General Lioneye's fortress",
+                "Act 1 Town"
+            ],
+            [
+                "Highgate",
+                "Maraketh village near The Beast",
+                "Act 4, 9"
+            ],
+            [
+                "Ogham",
+                "Oldest Ezomyte homeland",
+                "POE 2 Act 1"
+            ],
+            [
+                "Vastiri Plains",
+                "Maraketh plains — once green, now desert",
+                "Act 9, POE 2 Act 2"
+            ],
+            [
+                "Utzaal",
+                "Vaal city — now held by Cenobites",
+                "POE 2 Act 3"
+            ],
+            [
+                "Ngamakanui",
+                "Karui archipelago — where The Way lives",
+                "POE 2 Act 4"
+            ],
+            [
+                "Lake of Kalandra",
+                "Realm imprisoning Kalandra — beyond Wraeclast",
+                "Kalandra League"
+            ],
+            [
+                "Well of Souls",
+                "Origin of all Necromancy — deep below",
+                "Abyssals, Lightless"
+            ],
+            [
+                "Atlas of Worlds",
+                "Infinite network of parallel worlds",
+                "Endgame"
+            ],
+            [
+                "Azurite Mine",
+                "Endless deep mine with Precursor relics",
+                "Delve"
+            ]
+        ]
+    },
+    "races": {
+        "headers": [
+            "Race",
+            "Traits",
+            "History"
+        ],
+        "rows": [
+            [
+                "Precursors",
+                "First civilization, built tower systems",
+                "Destroyed by the Great Fire"
+            ],
+            [
+                "Primevals",
+                "Underground race — Uzaza (First King), Aul (Last King)",
+                "Destroyed by Lightless in Azurite Mine"
+            ],
+            [
+                "Azmeri",
+                "Founded the Empire, worship Draíocht",
+                "Survived Winter in mountains — oldest living culture"
+            ],
+            [
+                "Karui",
+                "Warriors, Makanui (The Way), gems forbidden",
+                "Enslaved, rebelled with Kaom & Hyrri"
+            ],
+            [
+                "Maraketh",
+                "Matriarchal, nomadic, tale-women, Sekhema",
+                "Solerai & Lundara ended the World Winter"
+            ],
+            [
+                "Ezomyte",
+                "Runes, songs, Druids, fortress Taisce",
+                "Enslaved by Empire, Rigwald rebelled"
+            ],
+            [
+                "Vaal",
+                "Architecture, blood thaumaturgy, sacrifice",
+                "Atziri & Doryani caused the Great Cataclysm"
+            ],
+            [
+                "Kalguur",
+                "Foreign merchants",
+                "Colonized Wraeclast after Vaal collapse"
+            ],
+            [
+                "Trarthans",
+                "Trading city-states, House system",
+                "Merchant Wars, House Keita/Cyaxan/Azadi"
+            ]
+        ]
+    },
+    "uniques": {
+        "headers": [
+            "Item",
+            "Type",
+            "Story",
+            "Flavor Text"
+        ],
+        "rows": [
+            [
+                "Kaom's Heart",
+                "Armor",
+                "+500 HP — Pure Karui strength, no magic needed.",
+                "\"Victory is not in the Karui fist, it is in the Karui blood.\""
+            ],
+            [
+                "Starforge",
+                "2H Sword",
+                "Forged to imprison The Elder. Venarius drew it, freeing the Elder.",
+                "\"A star forged into a blade, keeping darkness in steel.\""
+            ],
+            [
+                "Atziri's Mirror",
+                "Shield",
+                "Symbol of the Vaal Queen's vanity.",
+                "\"What did Atziri see in the mirror? Only eternal beauty.\""
+            ],
+            [
+                "Headhunter",
+                "Belt",
+                "Kill rares, absorb their mods — primal warrior philosophy.",
+                "\"A life spent hunting. A death spent remembering.\""
+            ],
+            [
+                "Mageblood",
+                "Belt",
+                "Connected to magical bloodstream. Auto-flask.",
+                "\"My blood flows, my flasks drink, my magic breathes.\""
+            ],
+            [
+                "Rebuke of the Vaal",
+                "Sword",
+                "Though they worshipped peace, provoking the Vaal was suicide.",
+                "\"Though the Vaal worshipped peace, any culture that provoked them was clearly suicidal.\""
+            ],
+            [
+                "Aul's Uprising",
+                "Amulet",
+                "Aul — Last King of Primevals, a better leader than fighter.",
+                "\"It was not bravery but leadership that brought Aul the crown.\""
+            ],
+            [
+                "Clayshaper",
+                "Hammer",
+                "Ahkeli — Primeval clay worker — fled the destruction.",
+                "\"Nothing, flesh, soul, or stone, escapes the thirst for dominion.\""
+            ],
+            [
+                "Darkness Enthroned",
+                "Belt",
+                "Kulemak sits triumphant, raising his crown. Darkness wraps the world.",
+                "\"Victory is but a moment, then collapse. No conqueror, no defeated, only Light that burns.\""
+            ]
+        ]
+    }
+}

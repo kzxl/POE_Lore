@@ -1,0 +1,84 @@
+{
+    "era": "Kỷ I",
+    "title": "Thời Tiền Sử & Khởi Nguyên",
+    "subtitle": "Những thực thể đầu tiên, nền văn minh đã mất, và Bánh Xe Thời Gian",
+    "cards": [
+        {
+            "icon": "🔄",
+            "title": "Chu Kỳ Thời Gian",
+            "text": "<strong>Thời Gian</strong> trong Wraeclast không phải đường thẳng — nó là <strong>vòng tròn</strong>. Navali gọi đó là <em>\"Tương Lai — Quá Khứ\"</em>: <strong>Hinekora</strong> không thấy tương lai, chỉ thấy quá khứ và những gì sẽ lặp lại. Mỗi chu kỳ kết thúc bằng thảm họa, và mọi thứ bắt đầu lại.",
+            "flavorText": "\"Nếu Thời Gian thực sự là vòng tròn, chẳng phải tất cả chúng ta đều bị kết án lặp lại cuộc đời mình mãi mãi sao?\" — Gwennen"
+        },
+        {
+            "icon": "🌊",
+            "title": "Kalandra và Hồ Bí Ẩn",
+            "text": "<strong>Kalandra</strong> — thực thể cổ đại nhất, có trước cả các vị thần. Khi đến Wraeclast, chỉ có <strong>Hồ</strong> — vùng đất nóng chảy và ooze nguyên thủy. <em>\"Tò mò là sự hủy diệt của ta\"</em> — bà bị giam giữ trong Hồ, không thể rời đi. Bà tự gọi mình là <strong>\"Kẻ Quan Sát\"</strong> — theo dõi sự phát triển của sự sống qua hàng triệu năm.",
+            "quote": "\"Ta nhìn đi chỗ khác chỉ một khoảnh khắc, và lũ sinh vật nhỏ bé đã phát minh ra tôn giáo. Thần là gì, nếu không phải kẻ trộm đức hạnh?\" — Kalandra, Ancient Etchings IV",
+            "flavorText": "\"Cái ngươi cần, kẻ trộm nhỏ bé, là một tấm gương vỡ.\" — Kalandra, Ancient Etchings V"
+        },
+        {
+            "icon": "🏔️",
+            "title": "Precursors — Nền Văn Minh Đầu Tiên",
+            "text": "Trước cả người Vaal, <strong>Precursors</strong> cai trị Wraeclast — nền văn minh <strong>cổ xưa đến mức địa chất đã xóa mờ dấu vết</strong>. Họ xây hệ thống tháp có khả năng <strong>thay đổi địa hình và hệ sinh thái</strong> toàn bộ Wraeclast. Doryani nói: <em>\"Họ cũng đào sâu vào bí mật của thế giới. Corruption chỉ là một trong nhiều dạng năng lượng họ làm chủ.\"</em>",
+            "flavorText": "\"Họ là bậc thầy của thế giới mình. Họ xây công trình mà chỉ tàn tích thôi cũng đủ gây kinh ngạc... kể cả với ta.\" — Doryani"
+        },
+        {
+            "icon": "📜",
+            "title": "Ba Sắc Lệnh của Mothersoul",
+            "text": "Precursors để lại <strong>pictographs</strong> trong phế tích — hướng dẫn phòng hờ cho hậu thế. Doryani phát hiện ba <strong>bức bích họa</strong>: Sắc Lệnh Thứ Nhất (bị hủy), Thứ Hai (<strong>Seed of Corruption</strong> — mầm Corruption), Thứ Ba (<strong>Vũ Khí</strong> để phá hủy Seed và The Beast). Vũ Khí chưa bao giờ được hoàn thành — Precursors bị <em>\"gián đoạn\"</em>.",
+            "warning": "Sắc Lệnh Thứ Tư: \"Nhân loại đã thất bại... Phải bắt đầu lại. Bằng Ngọn Lửa Thiêng của Mothersoul, da thịt Bà sẽ được thiêu đốt.\" — Arbiter of Ash",
+            "flavorText": "\"Trái đất Bà bị vấy bẩn lần nữa... Theo Sắc Lệnh Thứ Tư... da thịt Bà sẽ được thiêu đốt.\" — Arbiter of Ash"
+        },
+        {
+            "icon": "🌟",
+            "title": "Các Thế Lực Vũ Trụ",
+            "text": "Ngoài thần linh, tồn tại <strong>Cosmic Entities</strong> vượt trên mọi vị thần. <strong>Chaos</strong> quan sát đa dòng thời gian, thao túng vận mệnh qua ngẫu nhiên. <strong>The Maven</strong> — thực thể ngoài hành tinh, \"sưu tầm\" trận chiến như trò vui. <strong>The Elder</strong> — thực thể từ Void.",
+            "flavorText": "\"Ta không phá hủy. Ta chỉ... quan sát.\" — Chaos"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Thực Thể",
+            "Bản Chất",
+            "Ý Nghĩa"
+        ],
+        "rows": [
+            [
+                "Kalandra",
+                "Kẻ Quan Sát cổ đại, bị giam trong Hồ",
+                "Mirror of Kalandra, Lake of Kalandra"
+            ],
+            [
+                "Precursors",
+                "Nền văn minh đầu tiên, tạo hệ thống tháp",
+                "Precursor Towers, Seed of Corruption"
+            ],
+            [
+                "Mothersoul",
+                "Ý chí nguyên thủy của trái đất/tự nhiên",
+                "Ba Sắc Lệnh, Arbiter of Ash"
+            ],
+            [
+                "Titans",
+                "Sinh vật khổng lồ cổ đại, cư ngụ núi lửa",
+                "Valley of the Titans"
+            ],
+            [
+                "Chaos",
+                "Thực thể vũ trụ thao túng ngẫu nhiên",
+                "Chaos Orb, Divination"
+            ],
+            [
+                "The Maven",
+                "Thực thể ngoài hành tinh sưu tầm trận chiến",
+                "Maven Encounters"
+            ],
+            [
+                "The Elder",
+                "Thực thể từ Void",
+                "Elder Guardians, Starforge"
+            ]
+        ],
+        "caption": "Các Thực Thể & Thế Lực Nguyên Thủy"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "era": "Era V",
+    "title": "Path of Exile 1 — The Exile's Journey",
+    "subtitle": "1599 IC — Exile washes ashore on the cursed continent",
+    "cards": [
+        {
+            "icon": "⛓️",
+            "title": "Banished from Oriath (1599 IC)",
+            "text": "<strong>High Templar Dominus</strong> rules Oriath with an iron fist. He secretly studies thaumaturgy — patronizing <strong>Piety</strong>, creating <strong>Miscreations</strong>. Exiles are chained, thrown on ships, cast to the place <em>\"from which none return.\"</em>",
+            "flavorText": "\"Order through strength. Strength through faith. Faith through me.\" — Dominus"
+        },
+        {
+            "icon": "🏰",
+            "title": "Piety & The Godless Three's Legacy",
+            "text": "Dominus sends <strong>Piety</strong> (real name Vinia) to Wraeclast to study the Godless Three's legacy. Act 1: <strong>Shavronne's</strong> work (creating Brutus). Act 2: <strong>Maligaro's</strong> laboratory (creature transformation). Act 3: <strong>Malachai's</strong> lab (Lunaris Temple).",
+            "flavorText": "\"Progress is not made by the many.\" — Piety"
+        }
+    ],
+    "timeline": [
+        {
+            "date": "Act 1-2",
+            "title": "The Shore & The Forest",
+            "text": "Exile washes ashore at <strong>Lioneye's Watch</strong>. Defeat <strong>Merveil</strong> — a siren cursed by the Star of Wraeclast. In the forest: confront <strong>Alira, Kraityn, Oak</strong> — three bandit lords. Explore Vaal ruins.",
+            "flavorText": "\"The sea takes everything. But sometimes, it gives back.\" — Nessa"
+        },
+        {
+            "date": "Act 3",
+            "title": "Sarn — The Dead City",
+            "text": "Meet <strong>Lady Dialla</strong> (Gemling Queen — 200+ years old). Infiltrate Lunaris Temple. Defeat <strong>Dominus Ascendant</strong> atop the Sceptre of God.",
+            "flavorText": "\"Not a cockroach. Not yet. But getting there.\" — Lady Dialla"
+        },
+        {
+            "date": "Act 4",
+            "title": "⚠️ Slaying The Beast",
+            "text": "Enter The Beast. Piety sacrifices herself to help the Exile. Face the spirits of <strong>Kaom</strong> and <strong>Daresso</strong> in the Nightmare. Kill <strong>Malachai</strong> — <strong>The Beast dies — ALL gods awaken!</strong>",
+            "flavorText": "\"We killed the beast. But who will keep the gods asleep?\" — Tasuni"
+        },
+        {
+            "date": "Act 5",
+            "title": "🔥 The Fall of Oriath",
+            "text": "Return to Oriath. <strong>Kitava</strong> — the God of Hunger — rises and devours the island. <strong>Innocence</strong> is redeemed from High Templar Avarius. Exile loses first fight, all Resistances stripped.",
+            "flavorText": "\"King's Feast — the ancient rite when the conqueror devours the defeated. Two tribes become one.\" — Lani"
+        },
+        {
+            "date": "Act 6-7",
+            "title": "Gods Awakened",
+            "text": "<strong>Tukohama</strong> burns the forest. <strong>Brine King (Tsoagoth)</strong> kidnaps Nessa. <strong>Arakaali</strong> — Spider Goddess — consumes Silk. <strong>Sin</strong> guides the absorption of Divinity through the Pantheon.",
+            "flavorText": "\"Though I am a god, I don't forget my humanity. I care about what I once was.\" — Sin"
+        },
+        {
+            "date": "Act 8-9",
+            "title": "War of the Gods",
+            "text": "Defeat <strong>Solaris & Lunaris</strong> (divine sisters — manipulated against each other), <strong>Garukhan</strong> (Maraketh Wind Goddess), <strong>Shakari</strong> (Desert Goddess). Gather enough Divinity.",
+            "flavorText": "\"Ambition is the plague of mortals. It is ambition that puts us on divine thrones.\" — Sin"
+        },
+        {
+            "date": "Act 10",
+            "title": "⚔️ Defeat Kitava",
+            "text": "Final battle in Oriath. <strong>Sin sacrifices his power</strong> to help defeat Kitava. <strong>Innocence</strong> fights alongside. Oriath is liberated but left in ruins.",
+            "flavorText": "\"In the end, even the hungry must learn to be full.\" — Sin"
+        }
+    ],
+    "summary": {
+        "title": "POE 1 Conclusion",
+        "items": [
+            "✅ The Beast slain — gods awakened",
+            "✅ Malachai destroyed in the Nightmare",
+            "✅ Kitava defeated, Oriath liberated",
+            "✅ Innocence redeemed, Sin sacrificed his power",
+            "⚠️ Gods have awakened — Pantheon system",
+            "⚠️ The Elder & The Shaper — endgame threats from Atlas"
+        ]
+    }
+}

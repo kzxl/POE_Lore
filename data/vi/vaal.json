@@ -1,0 +1,83 @@
+{
+    "era": "Kỷ III",
+    "title": "Nền Văn Minh Vaal",
+    "subtitle": "~900 – 400 BIC — Từ vinh quang rực rỡ đến sụp đổ thảm khốc",
+    "cards": [
+        {
+            "icon": "🏛️",
+            "title": "Nguồn Gốc — Từ Xibaqua",
+            "text": "Truyền thuyết Vaal: <em>\"Từ da thịt của thần, Xibaqua sinh ra. Từ xương cốt Xibaqua, chúng ta sinh ra.\"</em> Xibaqua phản bội thần — bị trừng phạt. Các vị thần lấy lại da thịt, chỉ còn <strong>một giọt ánh sáng thuần khiết</strong> — người Vaal đầu tiên.",
+            "flavorText": "\"Cả sự tôn kính và tham vọng đều chảy trong huyết mạch Vaal.\" — Story of the Vaal"
+        },
+        {
+            "icon": "💎",
+            "title": "Virtue Gems — Nước Mắt của Maji",
+            "text": "Người Azmeri gọi Virtue Gems là <strong>\"Nước Mắt của Maji\"</strong>. Người Vaal phát hiện cách <strong>kích hoạt bằng hiến tế máu</strong>. Người Karui khi tiếp xúc bị <strong>Blood Fever</strong> — nổi điên cuồng, đó là lý do Karui Way cấm dùng gems.",
+            "flavorText": "\"Nước mắt của thần linh rơi rớt, chúng ta nhặt lấy và gọi đó là sức mạnh.\" — Doryani"
+        },
+        {
+            "icon": "👑",
+            "title": "Nữ Hoàng Atziri & Doryani",
+            "text": "<strong>Atziri</strong> — Nữ Hoàng cuối cùng, ám ảnh sắc đẹp vĩnh hằng. <strong>Doryani</strong> — thaumaturgist thiên tài, tạo <strong>Temple of Atzoatl</strong>, phát triển <strong>Soul Cores</strong>. Kishara sở hữu <strong>ngôi sao rơi</strong> chứa năng lượng khổng lồ. Doryani theo đuổi bất tử cùng <strong>Zerphi</strong>.",
+            "flavorText": "\"Sắc đẹp là quyền lực duy nhất không cần biện minh.\" — Nữ Hoàng Atziri"
+        },
+        {
+            "icon": "💀",
+            "title": "Red Communion — Sự Sụp Đổ (~400 BIC)",
+            "text": "Doryani thực hiện <strong>Red Communion</strong> — nghi lễ bất tử cho Atziri bằng <strong>soul cores</strong> và năng lượng khổng lồ. Năng lượng mất kiểm soát — <strong>xé toạc thực tại</strong>. Nền văn minh bị xóa sổ. Atziri bị giam trong chiều không gian khác. Doryani bị đẩy vào Delve sâu.",
+            "warning": "Atziri không chết — bà bị phong ấn, có thể triệu hồi qua Vaal Fragments.",
+            "flavorText": "\"Tham vọng vĩ đại nhất luôn đi kèm sự hủy diệt vĩ đại nhất.\" — Eramir"
+        },
+        {
+            "icon": "🗿",
+            "title": "Di Sản Sau Sụp Đổ",
+            "text": "Sau thảm họa: <strong>Utzaal</strong> bị nhóm Cenobites và Anchorites chiếm giữ. Các bộ tộc man rợ nổi lên: <strong>Oroks (Azakh-Kul)</strong> — thợ xây di tích, <strong>Azaks (Carvers)</strong> — nghệ nhân chạm khắc. Kalguur bắt đầu thuộc địa hóa Wraeclast ngay sau.",
+            "flavorText": "\"Qua chiến tranh ta tìm hòa bình. Qua cái chết ta tìm tiến bộ.\" — Story of the Vaal"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Nhân Vật/Sự Kiện",
+            "Vai Trò",
+            "Di Sản Trong Game"
+        ],
+        "rows": [
+            [
+                "Nữ Hoàng Atziri",
+                "Hoàng hậu cuối cùng, ám ảnh bất tử",
+                "Atziri Boss, Atziri's Mirror"
+            ],
+            [
+                "Doryani",
+                "Thaumaturgist thiên tài",
+                "Doryani's Machinarium, POE II NPC"
+            ],
+            [
+                "Zerphi",
+                "Alchemist theo đuổi bất tử",
+                "Zerphi's Heart"
+            ],
+            [
+                "Temple of Atzoatl",
+                "Phòng thí nghiệm Doryani",
+                "Incursion League"
+            ],
+            [
+                "Red Communion",
+                "Nghi lễ gây Đại Thảm Họa",
+                "Vaal Side Areas"
+            ],
+            [
+                "Soul Cores",
+                "Công nghệ giam giữ linh hồn",
+                "Dark lore"
+            ],
+            [
+                "Corruption",
+                "Biến đổi bản chất vật phẩm",
+                "Vaal Orb, Corrupted items"
+            ]
+        ],
+        "caption": "Nền Văn Minh & Di Sản Vaal"
+    }
+}

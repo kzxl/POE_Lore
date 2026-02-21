@@ -1,0 +1,61 @@
+{
+    "era": "Encyclopedia",
+    "title": "Legendary Items",
+    "subtitle": "Every item tells a story — from Precursor times to the modern era",
+    "cards": [
+        {
+            "icon": "💎",
+            "title": "Virtue Gems — Source of All Power",
+            "text": "Crystallized energy of The Beast. The Azmeri called them <strong>\"Tears of Maji.\"</strong> The Vaal used <strong>blood sacrifice</strong> to activate them. Each Gem contains a <strong>\"Volition\"</strong> — a primitive consciousness. The Karui forbid their use due to <strong>Blood Fever</strong> — a violent frenzy.",
+            "quote": "Virtue Gems — fragments of a cosmic entity's will, whispering to their wielders.",
+            "flavorText": "\"This stone whispers. You just need to know how to listen.\" — Malachai"
+        },
+        {
+            "icon": "🔴",
+            "title": "Vaal Gems & Corruption",
+            "text": "Transforming Virtue Gems with dark energy. <strong>Vaal Gems</strong> — extremely powerful but cost souls. The <strong>Seed of Corruption</strong> is a product of the Second Edict — created by Precursors intentionally.",
+            "flavorText": "\"Corruption does not destroy. It liberates.\" — Doryani"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Currency",
+            "Lore",
+            "Function",
+            "Flavor Text"
+        ],
+        "rows": [
+            [
+                "Mirror of Kalandra",
+                "Fragment of Kalandra's reflection power — the most ancient entity",
+                "Duplicate 1 item",
+                "\"What you need, little thief, is a broken mirror.\""
+            ],
+            [
+                "Chaos Orb",
+                "Crystallized Chaos — cosmic entity of fate manipulation",
+                "Re-roll rare mods",
+                "\"Randomness is not chaos. It is art.\""
+            ],
+            [
+                "Exalted Orb",
+                "Distorted face — imprisoned soul or thaumaturgy essence",
+                "Add 1 mod to rare",
+                "\"Power has a price. And that price is a soul.\""
+            ],
+            [
+                "Divine Orb",
+                "The power of optimization — perfecting items",
+                "Re-roll mod values",
+                "\"Perfection is not a destination. It is a journey.\""
+            ],
+            [
+                "Vaal Orb",
+                "Legacy of corruption, the Second Edict",
+                "Corrupt item permanently",
+                "\"Best or worst — that's the Vaal way.\""
+            ]
+        ],
+        "caption": "💰 Currency Orbs"
+    }
+}

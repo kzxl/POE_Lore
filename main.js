@@ -1,14 +1,37 @@
 // ================================
 // POE LORE — APP LOGIC
 // ================================
-import loreVi from './data/vi/lore.json';
-import loreEn from './data/en/lore.json';
+// VI data — tách theo era
+import originVi from './data/vi/origin.json';
+import winterVi from './data/vi/winter.json';
+import vaalVi from './data/vi/vaal.json';
+import eternalVi from './data/vi/eternal.json';
+import modernVi from './data/vi/modern.json';
+import poe2Vi from './data/vi/poe2.json';
+import itemsVi from './data/vi/items.json';
+import worldVi from './data/vi/world.json';
 import npcsVi from './data/vi/npcs.json';
+
+// EN data — tách theo era
+import originEn from './data/en/origin.json';
+import winterEn from './data/en/winter.json';
+import vaalEn from './data/en/vaal.json';
+import eternalEn from './data/en/eternal.json';
+import modernEn from './data/en/modern.json';
+import poe2En from './data/en/poe2.json';
+import itemsEn from './data/en/items.json';
+import worldEn from './data/en/world.json';
 import npcsEn from './data/en/npcs.json';
 
 const DATA = {
-    vi: { lore: loreVi, npcs: npcsVi },
-    en: { lore: loreEn, npcs: npcsEn },
+    vi: {
+        lore: { origin: originVi, winter: winterVi, vaal: vaalVi, eternal: eternalVi, modern: modernVi, poe2: poe2Vi, items: itemsVi, world: worldVi },
+        npcs: npcsVi,
+    },
+    en: {
+        lore: { origin: originEn, winter: winterEn, vaal: vaalEn, eternal: eternalEn, modern: modernEn, poe2: poe2En, items: itemsEn, world: worldEn },
+        npcs: npcsEn,
+    },
 };
 
 const NAV = {

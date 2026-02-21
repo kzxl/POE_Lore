@@ -1,0 +1,30 @@
+{
+    "era": "Era VI",
+    "title": "Path of Exile 2",
+    "subtitle": "20 years later — Corruption rises, Ancient Threats return",
+    "cards": [
+        {
+            "icon": "🌅",
+            "title": "The World 20 Years Later (1619 IC)",
+            "text": "Rebuilding efforts: <strong>Immortal Syndicate</strong> operates in the shadows. <strong>Arimor Line</strong> — defensive perimeter. <strong>Kingsmarch</strong> — second Kalguur colony. Oriath attempts <strong>civilian governance</strong>.",
+            "flavorText": "\"Civilizations rise and fall. We are just the next chapter.\" — Alva Valai"
+        },
+        {
+            "icon": "🌑",
+            "title": "Twilight Order & Corruption Returns",
+            "text": "The <strong>Twilight Order</strong> — a secret organization that stole the <strong>Seed of Corruption</strong>. The new Exile begins at <strong>Ogham</strong> (Ezomyte homeland). <strong>Count of Ogham</strong> rules through necromancy. Corruption spreads across Wraeclast.",
+            "flavorText": "\"Death is not the end. It is the beginning of obedience.\" — Count of Ogham"
+        },
+        {
+            "icon": "🗡️",
+            "title": "The 5-Act Journey",
+            "text": "<strong>Act 1</strong>: Ogham — liberation from the Count. <strong>Act 2</strong>: Vastiri — pursuing the Beast. <strong>Act 3</strong>: Utzaal — finding Doryani (Vaal expert). <strong>Act 4</strong>: Ngamakanui — searching for the Weapon (Third Edict). <strong>Act 5</strong>: Oriath — confronting the Twilight Order."
+        },
+        {
+            "icon": "🔥",
+            "title": "Doryani & The Ancient Weapon",
+            "text": "<strong>Doryani</strong> — ancient Vaal thaumaturgist — survived through immortality experiments. Becomes an ally. Helps research <strong>Precursor ruins</strong>, find the <strong>Weapon — Instrument of the Third Edict</strong> — failsafe to destroy the Seed of Corruption.",
+            "flavorText": "\"If they had completed the tower network, it could have changed the face of the world...\" — Precursor Tablet"
+        }
+    ]
+}

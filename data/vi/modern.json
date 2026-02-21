@@ -1,0 +1,74 @@
+{
+    "era": "Kỷ V",
+    "title": "Path of Exile 1 — Hành Trình Exile",
+    "subtitle": "1599 IC — Exile dạt vào lục địa bị nguyền",
+    "cards": [
+        {
+            "icon": "⛓️",
+            "title": "Lưu Đày Khỏi Oriath (1599 IC)",
+            "text": "<strong>High Templar Dominus</strong> cai trị Oriath bằng bàn tay sắt. Bí mật nghiên cứu thaumaturgy — cấp patron cho <strong>Piety</strong>, tạo <strong>Miscreations</strong>. Exile bị xích, ném lên thuyền, đày đến <em>\"nơi không ai trở về\"</em>.",
+            "flavorText": "\"Trật tự qua sức mạnh. Sức mạnh qua đức tin. Đức tin qua ta.\" — Dominus"
+        },
+        {
+            "icon": "🏰",
+            "title": "Piety & The Godless Three's Legacy",
+            "text": "Dominus cử <strong>Piety</strong> (tên thật Vinia) sang Wraeclast nghiên cứu di sản Godless Three. Act 1: công trình <strong>Shavronne</strong> (tạo Brutus). Act 2: hang <strong>Maligaro</strong> (biến đổi sinh vật). Act 3: phòng thí nghiệm <strong>Malachai</strong> (Lunaris Temple).",
+            "flavorText": "\"Tiến bộ không do đám đông tạo ra.\" — Piety"
+        }
+    ],
+    "timeline": [
+        {
+            "date": "Act 1-2",
+            "title": "Bờ Biển & Rừng Rậm",
+            "text": "Exile dạt vào <strong>Lioneye's Watch</strong>. Đánh bại <strong>Merveil</strong> — nàng tiên bị nguyền bởi Star of Wraeclast. Rừng rậm: đối đầu <strong>Alira, Kraityn, Oak</strong> — ba bandit. Khám phá tàn tích Vaal.",
+            "flavorText": "\"Biển lấy đi tất cả. Nhưng đôi khi, nó cũng trả lại.\" — Nessa"
+        },
+        {
+            "date": "Act 3",
+            "title": "Sarn — Thành Phố Chết",
+            "text": "Gặp <strong>Lady Dialla</strong> (Gemling Queen — 200+ tuổi). Xâm nhập Lunaris Temple. Đánh bại <strong>Dominus Ascendant</strong> trên đỉnh Sceptre of God.",
+            "flavorText": "\"Không phải gián. Chưa phải gián. Nhưng gần rồi.\" — Lady Dialla"
+        },
+        {
+            "date": "Act 4",
+            "title": "⚠️ Giết Chết The Beast",
+            "text": "Xâm nhập The Beast. Piety hy sinh giúp Exile. Đối đầu linh hồn <strong>Kaom</strong> và <strong>Daresso</strong> trong Nightmare. Giết <strong>Malachai</strong> — <strong>The Beast chết — đánh thức TẤT CẢ thần linh!</strong>",
+            "flavorText": "\"Chúng ta đã giết con thú. Nhưng ai sẽ giữ các vị thần ngủ yên?\" — Tasuni"
+        },
+        {
+            "date": "Act 5",
+            "title": "🔥 Sụp Đổ Oriath",
+            "text": "Trở về Oriath. <strong>Kitava</strong> — Thần Đói Khát — trỗi dậy, nuốt chửng đảo quốc. <strong>Innocence</strong> được cứu chuộc từ High Templar Avarius. Exile thua trận đầu, mất Resistance.",
+            "flavorText": "\"King's Feast — nghi lễ cổ xưa khi kẻ chinh phục ăn thịt kẻ bại trận. Hai bộ tộc thành một.\" — Lani"
+        },
+        {
+            "date": "Act 6-7",
+            "title": "Thần Linh Thức Tỉnh",
+            "text": "<strong>Tukohama</strong> đốt rừng. <strong>Brine King (Tsoagoth)</strong> bắt cóc Nessa. <strong>Arakaali</strong> — Nữ Thần Nhện — nuốt Silk. <strong>Sin</strong> hướng dẫn hấp thụ Divinity qua Pantheon.",
+            "flavorText": "\"Dù là thần, ta không quên nhân tính. Ta quan tâm tới điều ta từng là.\" — Sin"
+        },
+        {
+            "date": "Act 8-9",
+            "title": "Chiến Tranh Thần Linh",
+            "text": "Đánh bại <strong>Solaris & Lunaris</strong> (chị em thần — bị thao túng chống nhau), <strong>Garukhan</strong> (Nữ Thần Gió Maraketh), <strong>Shakari</strong> (Nữ Thần Sa Mạc). Thu thập đủ Divinity.",
+            "flavorText": "\"Tham vọng là bệnh dịch của phàm nhân. Chính tham vọng đưa chúng ta lên ngai thần.\" — Sin"
+        },
+        {
+            "date": "Act 10",
+            "title": "⚔️ Đánh Bại Kitava",
+            "text": "Trận chiến cuối cùng tại Oriath. <strong>Sin hy sinh sức mạnh</strong> để giúp đánh bại Kitava. <strong>Innocence</strong> chiến đấu bên cạnh. Oriath giải phóng nhưng hoang tàn.",
+            "flavorText": "\"Cuối cùng, kẻ đói khát cũng phải biết no.\" — Sin"
+        }
+    ],
+    "summary": {
+        "title": "Kết Thúc POE 1",
+        "items": [
+            "✅ The Beast bị giết — thần linh thức tỉnh",
+            "✅ Malachai bị tiêu diệt trong Nightmare",
+            "✅ Kitava bị đánh bại, Oriath giải phóng",
+            "✅ Innocence được cứu chuộc, Sin hy sinh sức mạnh",
+            "⚠️ Các vị thần đã thức tỉnh — Pantheon system",
+            "⚠️ The Elder & The Shaper — endgame threats từ Atlas"
+        ]
+    }
+}

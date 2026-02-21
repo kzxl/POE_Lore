@@ -1,0 +1,110 @@
+{
+    "era": "Era IV",
+    "title": "The Eternal Empire",
+    "subtitle": "1 IC – 1336 IC — From glory to the Great Cataclysm",
+    "cards": [
+        {
+            "icon": "⚜️",
+            "title": "Foundation — Imperialus Conceptus (1 IC)",
+            "text": "The <strong>Azmeri</strong> left the mountains. <strong>Tarcus Veruso</strong> founded <strong>Sarn</strong>. The <strong>Phrecian</strong> dynasty (35 IC) became the royal line. The Empire expanded through conquest — enslaving the Ezomyte, Maraketh, and Karui.",
+            "flavorText": "\"A strong leader can bridge the gap between survival and extinction.\" — Izaro Phrecius"
+        },
+        {
+            "icon": "🏆",
+            "title": "Emperor Izaro & The Labyrinth",
+            "text": "<strong>Izaro Phrecius</strong> created the <strong>Labyrinth</strong> — inspired by the Azmeri Lord's Trial. The <strong>Perandus</strong> family betrayed Izaro, trapping him in the Labyrinth forever. The <strong>Perandus family</strong> — Chitus, Cadiro — seized power through wealth and conspiracy.",
+            "flavorText": "\"An Emperor does not sit on the throne. An Emperor IS the throne.\" — Izaro Phrecius"
+        },
+        {
+            "icon": "🔮",
+            "title": "Malachai & Thaumatocracy (1319-1334 IC)",
+            "text": "<strong>Emperor Chitus</strong> appointed <strong>Malachai</strong> — master thaumaturgist. Malachai industrialized Virtue Gem mining, created <strong>Gemling Legionnaires</strong> (soldiers with gems fused into their bones). Turned <strong>Lady Dialla</strong> into the <strong>\"Gemling Queen\"</strong> — a tortured immortal experiment.",
+            "quote": "\"Studying Virtue Gems is the most dangerous task — gems whisper to their wielders.\" — Malachai",
+            "flavorText": "\"Not a cockroach. Not yet.\" — Lady Dialla"
+        },
+        {
+            "icon": "😈",
+            "title": "The Godless Three",
+            "text": "Malachai's three cruelest apprentices: <strong>Shavronne of Umbra</strong> — who created <strong>Brutus</strong> from a prisoner; <strong>Inquisitor Maligaro</strong> — the \"anatomist\" who turned humans into monsters; <strong>Doedre Darktongue Stamatis</strong> — the fallen witch.",
+            "flavorText": "\"Progress is not made by the many.\" — Piety"
+        },
+        {
+            "icon": "🗡️",
+            "title": "Purity Rebellion (1332-1334 IC)",
+            "text": "<strong>High Templar Voll</strong> led the uprising. Alliance: <strong>King Kaom</strong> (Karui — 20,000 warriors), <strong>Hyrri</strong> (Karui female archer), <strong>Deshret</strong> (Maraketh), <strong>Rigwald</strong> (Ezomyte). Voll defeated Chitus but <strong>spared Malachai</strong> — a fatal mistake.",
+            "flavorText": "\"Victory is not in the Karui fist, it is in the Karui blood.\" — Kaom's Heart"
+        },
+        {
+            "icon": "💀",
+            "title": "The Cataclysm (1336 IC)",
+            "text": "Malachai built the <strong>Rapture Device</strong>, resurrected the Godless Three, and breached The Beast. <strong>The Cataclysm</strong> destroyed the Empire. Sarn flooded with <strong>Undying</strong>. Kaom was trapped in the Nightmare. Hyrri became a wanderer. Deshret was sealed. Rigwald became the Greatwolf.",
+            "warning": "Malachai lives inside The Beast, becoming The Nightmare's Heart.",
+            "flavorText": "\"Progress is not made by the many, but by those who dare step into the darkness.\" — Malachai"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Character",
+            "Role",
+            "Fate"
+        ],
+        "rows": [
+            [
+                "Izaro Phrecius",
+                "Emperor who created the Labyrinth",
+                "Trapped forever in the Labyrinth"
+            ],
+            [
+                "Malachai",
+                "Traitorous thaumaturgist",
+                "Became part of Nightmare — Act 4 Boss"
+            ],
+            [
+                "Lady Dialla",
+                "Gemling Queen",
+                "Lived 200+ years, refused to power Rapture Device"
+            ],
+            [
+                "King Kaom",
+                "Karui King with 20,000 soldiers",
+                "Trapped in Nightmare — Act 4 Boss"
+            ],
+            [
+                "Hyrri",
+                "Revolutionary female archer",
+                "Became a wanderer, changed Karui women's roles"
+            ],
+            [
+                "Deshret",
+                "Maraketh warrior",
+                "Spirit sealed in Mines — Act 4 quest"
+            ],
+            [
+                "Rigwald",
+                "Ezomyte leader",
+                "Corrupted into the Greatwolf"
+            ],
+            [
+                "Voll",
+                "High Templar rebel",
+                "Died in Cataclysm, became Undying King"
+            ],
+            [
+                "Cadiro Perandus",
+                "Cunning merchant",
+                "Survived through a mysterious deal"
+            ],
+            [
+                "Daresso",
+                "Legendary swordsman",
+                "Trapped in Nightmare for Merveil"
+            ],
+            [
+                "Merveil",
+                "Cursed siren",
+                "Act 1 Boss — cursed by Star of Wraeclast"
+            ]
+        ],
+        "caption": "Characters & Their Fates"
+    }
+}

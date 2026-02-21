@@ -1,0 +1,61 @@
+{
+    "era": "Bách Khoa",
+    "title": "Vật Phẩm Huyền Thoại",
+    "subtitle": "Mỗi vật phẩm đều mang một câu chuyện — từ thời Precursors đến hiện đại",
+    "cards": [
+        {
+            "icon": "💎",
+            "title": "Virtue Gems — Nguồn Gốc Sức Mạnh",
+            "text": "Kết tinh năng lượng The Beast. Người Azmeri gọi là <strong>\"Nước Mắt của Maji\"</strong>. Người Vaal dùng <strong>hiến tế máu</strong> để kích hoạt. Mỗi Gem chứa <strong>\"Ý Chí\" (Volition)</strong> — ý thức nguyên thủy. Karui cấm dùng vì gây <strong>Blood Fever</strong> — cơn điên cuồng.",
+            "quote": "Virtue Gems — mảnh vỡ ý chí của thực thể vũ trụ, thì thầm với người sử dụng.",
+            "flavorText": "\"Viên đá này thì thầm. Ngươi chỉ cần biết lắng nghe.\" — Malachai"
+        },
+        {
+            "icon": "🔴",
+            "title": "Vaal Gems & Corruption",
+            "text": "Biến Virtue Gems bằng năng lượng tối. <strong>Vaal Gems</strong> — phiên bản cực mạnh nhưng tốn souls. <strong>Seed of Corruption</strong> là sản phẩm Sắc Lệnh Thứ Hai — được Precursors tạo ra có chủ đích.",
+            "flavorText": "\"Corruption không phá hủy. Nó giải phóng.\" — Doryani"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Currency",
+            "Lore",
+            "Chức năng",
+            "Flavor Text"
+        ],
+        "rows": [
+            [
+                "Mirror of Kalandra",
+                "Mảnh sức mạnh phản chiếu của Kalandra — thực thể cổ nhất",
+                "Nhân đôi 1 item",
+                "\"Cái ngươi cần, kẻ trộm nhỏ bé, là một tấm gương vỡ.\""
+            ],
+            [
+                "Chaos Orb",
+                "Kết tinh Chaos — thực thể vũ trụ thao túng vận mệnh",
+                "Re-roll mods rare item",
+                "\"Ngẫu nhiên không phải hỗn loạn. Nó là nghệ thuật.\""
+            ],
+            [
+                "Exalted Orb",
+                "Khuôn mặt méo mó — linh hồn bị giam hoặc tinh chất thaumaturgy",
+                "Thêm 1 mod vào rare",
+                "\"Quyền lực có giá. Và giá đó là linh hồn.\""
+            ],
+            [
+                "Divine Orb",
+                "Sức mạnh tối ưu hóa — hoàn hảo hóa vật phẩm",
+                "Re-roll giá trị số mods",
+                "\"Hoàn hảo không phải đích đến. Nó là hành trình.\""
+            ],
+            [
+                "Vaal Orb",
+                "Di sản corruption, Sắc Lệnh Thứ Hai",
+                "Corrupt item vĩnh viễn",
+                "\"Kết quả tốt nhất hay tệ nhất — đó mới là Vaal.\""
+            ]
+        ],
+        "caption": "💰 Currency Orbs"
+    }
+}

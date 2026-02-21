@@ -1,0 +1,83 @@
+{
+    "era": "Era III",
+    "title": "The Vaal Civilization",
+    "subtitle": "~900 – 400 BIC — From dazzling glory to catastrophic collapse",
+    "cards": [
+        {
+            "icon": "🏛️",
+            "title": "Origins — From Xibaqua",
+            "text": "Vaal legend says: <em>\"From the flesh of the gods, Xibaqua was born. From the bones of Xibaqua, we were born.\"</em> Xibaqua betrayed the gods — was punished. The gods reclaimed their flesh, leaving only <strong>a single drop of pure light</strong> — the first Vaal.",
+            "flavorText": "\"Both reverence and ambition flow through the Vaal bloodline.\" — Story of the Vaal"
+        },
+        {
+            "icon": "💎",
+            "title": "Virtue Gems — Tears of Maji",
+            "text": "The Azmeri called Virtue Gems <strong>\"Tears of Maji.\"</strong> The Vaal discovered how to <strong>activate them through blood sacrifice</strong>. When the Karui touched them, they suffered <strong>Blood Fever</strong> — a violent frenzy. This is why the Karui Way forbids the use of gems.",
+            "flavorText": "\"The tears of gods fell, and we picked them up and called it power.\" — Doryani"
+        },
+        {
+            "icon": "👑",
+            "title": "Queen Atziri & Doryani",
+            "text": "<strong>Atziri</strong> — the last Queen, obsessed with eternal beauty. <strong>Doryani</strong> — genius thaumaturgist who built the <strong>Temple of Atzoatl</strong> and developed <strong>Soul Cores</strong>. Kishara possessed a <strong>fallen star</strong> containing enormous energy. Doryani pursued immortality alongside <strong>Zerphi</strong>.",
+            "flavorText": "\"Beauty is the only power that needs no justification.\" — Queen Atziri"
+        },
+        {
+            "icon": "💀",
+            "title": "The Red Communion — The Fall (~400 BIC)",
+            "text": "Doryani performed the <strong>Red Communion</strong> — an immortality ritual for Atziri using <strong>soul cores</strong> and immense energy. The power spiraled out of control — <strong>tearing reality apart</strong>. Civilization was erased. Atziri was sealed in another dimension. Doryani was cast into the depths of Delve.",
+            "warning": "Atziri did not die — she was sealed away, summonable via Vaal Fragments.",
+            "flavorText": "\"The greatest ambition always brings the greatest destruction.\" — Eramir"
+        },
+        {
+            "icon": "🗿",
+            "title": "Legacy After the Fall",
+            "text": "After the catastrophe: <strong>Utzaal</strong> was seized by Cenobites and Anchorites. Barbaric tribes rose: <strong>Oroks (Azakh-Kul)</strong> — ruin builders, <strong>Azaks (Carvers)</strong> — artisan sculptors. The Kalguur began colonizing Wraeclast immediately after.",
+            "flavorText": "\"Through war we find peace. Through death we find progress.\" — Story of the Vaal"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Character/Event",
+            "Role",
+            "Game Legacy"
+        ],
+        "rows": [
+            [
+                "Queen Atziri",
+                "Last Queen, obsessed with immortality",
+                "Atziri Boss, Atziri's Mirror"
+            ],
+            [
+                "Doryani",
+                "Genius thaumaturgist",
+                "Doryani's Machinarium, POE II NPC"
+            ],
+            [
+                "Zerphi",
+                "Alchemist pursuing immortality",
+                "Zerphi's Heart"
+            ],
+            [
+                "Temple of Atzoatl",
+                "Doryani's laboratory",
+                "Incursion League"
+            ],
+            [
+                "Red Communion",
+                "Ritual that caused the Cataclysm",
+                "Vaal Side Areas"
+            ],
+            [
+                "Soul Cores",
+                "Technology for imprisoning spirits",
+                "Dark lore"
+            ],
+            [
+                "Corruption",
+                "Altering the essence of items",
+                "Vaal Orb, Corrupted items"
+            ]
+        ],
+        "caption": "Vaal Civilization & Legacy"
+    }
+}

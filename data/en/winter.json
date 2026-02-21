@@ -1,0 +1,43 @@
+{
+    "era": "Era II",
+    "title": "The Era of Despair",
+    "subtitle": "The Great Fire — The World Winter — The War Against Darkness",
+    "cards": [
+        {
+            "icon": "🔥",
+            "title": "The Great Fire — Fall of the Precursors",
+            "text": "A <strong>great conflagration</strong> swept across all of Wraeclast — <em>\"from north to south, a sea of raging flame.\"</em> The Precursors perished. The Weapon (Third Edict) was <strong>left unfinished</strong>. A <strong>female scientist</strong> tried to complete it — cast the pieces into the sea, but <strong>died of her wounds</strong>.",
+            "flavorText": "\"After the fire, the sky turned grey, ash began to fall, and the cold came...\" — Grip of Winter"
+        },
+        {
+            "icon": "❄️",
+            "title": "The World Winter",
+            "text": "<strong>1,000 years of frost</strong> — the Maraketh called it the World Winter, the Karui called it the Great Wasting. <em>\"Fair plains turned desolate and lightless.\"</em> Each tribe tells its own story: great fires, centuries of barrenness, endless winter.",
+            "flavorText": "\"The truth lies buried in all those stories. There was an ancient time of terror and hunger.\" — Matiki"
+        },
+        {
+            "icon": "👹",
+            "title": "Lightless — Creatures from the Well of Souls",
+            "text": "<strong>Lightless (Abyssals)</strong> — creatures that were made, not born. <em>\"Every moment in light is agony.\"</em> They serve <strong>Kulemak, the Lich Lord</strong>. Their power source: <strong>Well of Souls</strong> — a bottomless well of spirits, the origin of all necromancy. <em>\"From everywhere, every path, the Well is always below.\"</em>",
+            "flavorText": "\"There is no oblivion. Only screaming. Forever.\" — Lurking Creature"
+        },
+        {
+            "icon": "🤝",
+            "title": "The Third Pact — Alliance Against Darkness",
+            "text": "In desperation, <strong>all living things</strong> allied: humans, serpents, hyenas, golems — ancestral enemies <strong>held hands</strong> against the Abyssals. The <strong>Third Pact</strong> was born. Sin extracted <strong>Divinity</strong> from Kulemak, neutralizing him. The Dreamer received a drop of blood from each race.",
+            "flavorText": "\"Whether serpent, hyena, human or golem, ancestral enemies held hands, built shelter, and fought together.\" — Against the Darkness"
+        },
+        {
+            "icon": "☀️",
+            "title": "Solerai & Lundara — Return to Light",
+            "text": "Twin Sekhemas — <strong>Solerai</strong> (golden) and <strong>Lundara</strong> (silver) — unified the Maraketh. <em>\"With a single strike, Solerai ended the World Winter.\"</em> The Lightless retreated beneath the sands. Solerai may be <strong>Solaris</strong>, Lundara may be <strong>Lunaris</strong>.",
+            "flavorText": "\"When hope was but a memory, twin Sekhemas rose to unite a scattered people.\" — Zarka"
+        },
+        {
+            "icon": "⚔️",
+            "title": "The Rise of the Gods",
+            "text": "From the ashes, <strong>gods emerged</strong>. The Karui had <strong>Tukohama</strong> who united the tribes, <strong>Tawhoa</strong> who calmed the earth, <strong>Valako</strong> who tamed the skies. <em>\"There was a time of hunger, fire, and despair... then the gods rose from the ashes.\"</em>",
+            "flavorText": "\"Tukohama didn't just bring violence. He brought hope. Hope for all the tribes.\" — Matiki"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "era": "Kỷ IV",
+    "title": "Đế Chế Vĩnh Cửu",
+    "subtitle": "1 IC – 1336 IC — Từ vinh quang đến Đại Thảm Họa",
+    "cards": [
+        {
+            "icon": "⚜️",
+            "title": "Khởi Đầu — Imperialus Conceptus (1 IC)",
+            "text": "Người <strong>Azmeri</strong> rời dãy núi, <strong>Tarcus Veruso</strong> thành lập <strong>Sarn</strong>. Dòng dõi <strong>Phrecian</strong> (35 IC) trở thành hoàng tộc. Đế Chế mở rộng bằng chinh phục — nô dịch hóa Ezomyte, Maraketh và Karui.",
+            "flavorText": "\"Lãnh đạo mạnh có thể bắc cầu giữa tồn tại và diệt vong.\" — Izaro Phrecius"
+        },
+        {
+            "icon": "🏆",
+            "title": "Hoàng Đế Izaro & Mê Cung",
+            "text": "<strong>Izaro Phrecius</strong> tạo <strong>Mê Cung (Labyrinth)</strong> — lấy cảm hứng từ phép thử Lord's Trial của người Azmeri. Dòng họ <strong>Perandus</strong> phản bội Izaro, giam ông trong Mê Cung vĩnh viễn. <strong>Gia đình Perandus</strong> — Chitus, Cadiro — nắm quyền thông qua tiền và âm mưu.",
+            "flavorText": "\"Hoàng Đế không ngồi trên ngai. Hoàng Đế CHÍNH LÀ ngai.\" — Izaro Phrecius"
+        },
+        {
+            "icon": "🔮",
+            "title": "Malachai & Thaumatocracy (1319-1334 IC)",
+            "text": "<strong>Hoàng Đế Chitus</strong> bổ nhiệm <strong>Malachai</strong> — bậc thầy thaumaturgy. Malachai khai thác Virtue Gems quy mô công nghiệp, tạo <strong>Gemling Legionnaires</strong> (lính có gem gắn trong xương). Biến <strong>Lady Dialla</strong> thành <strong>\"Gemling Queen\"</strong> — thí nghiệm bất tử đau khổ.",
+            "quote": "\"Nghiên cứu Virtue Gems là nhiệm vụ nguy hiểm nhất — gem thì thầm với người sử dụng.\" — Malachai",
+            "flavorText": "\"Không phải gián. Chưa phải gián.\" — Lady Dialla"
+        },
+        {
+            "icon": "😈",
+            "title": "Godless Three — Bộ Ba Vô Thần",
+            "text": "Ba học trò tàn ác nhất của Malachai: <strong>Shavronne of Umbra</strong> — sáng tạo <strong>Brutus</strong> từ tù nhân; <strong>Inquisitor Maligaro</strong> — \"nhà giải phẫu\" biến con người thành quái vật; <strong>Doedre Darktongue Stamatis</strong> — bà phù thủy bị sa đọa.",
+            "flavorText": "\"Tiến bộ không do đám đông tạo ra.\" — Piety"
+        },
+        {
+            "icon": "🗡️",
+            "title": "Purity Rebellion (1332-1334 IC)",
+            "text": "<strong>High Templar Voll</strong> lãnh đạo nổi dậy. Liên minh: <strong>King Kaom</strong> (Karui — 20.000 chiến binh), <strong>Hyrri</strong> (nữ xạ thủ Karui), <strong>Deshret</strong> (Maraketh), <strong>Rigwald</strong> (Ezomyte). Voll đánh bại Chitus nhưng <strong>tha cho Malachai</strong> — sai lầm chí mạng.",
+            "flavorText": "\"Chiến thắng không nằm trong nắm đấm Karui, nó nằm trong máu Karui.\" — Kaom's Heart"
+        },
+        {
+            "icon": "💀",
+            "title": "Đại Thảm Họa — The Cataclysm (1336 IC)",
+            "text": "Malachai tạo <strong>Rapture Device</strong>, hồi sinh Godless Three, xâm nhập The Beast. <strong>Cataclysm</strong> hủy diệt Đế Chế. Sarn tràn ngập <strong>Undying</strong>. Kaom bị giam trong Nightmare. Hyrri phiêu bạt. Deshret bị phong ấn. Rigwald bị Corruption biến thành Greatwolf.",
+            "warning": "Malachai sống bên trong The Beast, trở thành Nightmare's Heart.",
+            "flavorText": "\"Tiến bộ không do đám đông tạo ra, mà do những kẻ dám bước vào bóng tối.\" — Malachai"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Nhân Vật",
+            "Vai Trò",
+            "Số Phận"
+        ],
+        "rows": [
+            [
+                "Izaro Phrecius",
+                "Hoàng Đế tạo Labyrinth",
+                "Bị giam vĩnh viễn trong Mê Cung"
+            ],
+            [
+                "Malachai",
+                "Thaumaturgist phản bội",
+                "Trở thành một phần Nightmare — Act 4 Boss"
+            ],
+            [
+                "Lady Dialla",
+                "Gemling Queen",
+                "Sống 200+ năm, từ chối kích hoạt Rapture Device"
+            ],
+            [
+                "King Kaom",
+                "Vua Karui 20.000 lính",
+                "Bị giam trong Nightmare — Act 4 Boss"
+            ],
+            [
+                "Hyrri",
+                "Nữ xạ thủ cách mạng",
+                "Phiêu bạt, thay đổi vai trò phụ nữ Karui"
+            ],
+            [
+                "Deshret",
+                "Chiến binh Maraketh",
+                "Linh hồn bị phong ấn trong Mines — Act 4"
+            ],
+            [
+                "Rigwald",
+                "Lãnh đạo Ezomyte",
+                "Bị Corruption biến thành Greatwolf"
+            ],
+            [
+                "Voll",
+                "High Templar nổi dậy",
+                "Chết trong Cataclysm, thành Undying King"
+            ],
+            [
+                "Cadiro Perandus",
+                "Thương gia xảo quyệt",
+                "Sống sót nhờ thỏa thuận bí ẩn"
+            ],
+            [
+                "Daresso",
+                "Kiếm sĩ huyền thoại",
+                "Bị giam trong Nightmare vì Merveil"
+            ],
+            [
+                "Merveil",
+                "Nàng tiên bị nguyền",
+                "Act 1 Boss — Star of Wraeclast rủa bà"
+            ]
+        ],
+        "caption": "Nhân Vật & Số Phận Trong Đế Chế"
+    }
+}

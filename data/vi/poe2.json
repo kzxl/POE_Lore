@@ -1,0 +1,30 @@
+{
+    "era": "Kỷ VI",
+    "title": "Path of Exile 2",
+    "subtitle": "20 năm sau — Corruption trỗi dậy, Mối Đe Dọa Cổ Xưa",
+    "cards": [
+        {
+            "icon": "🌅",
+            "title": "Thế Giới 20 Năm Sau (1619 IC)",
+            "text": "Các nỗ lực tái thiết: <strong>Immortal Syndicate</strong> hoạt động trong bóng tối. <strong>Arimor Line</strong> — tuyến phòng thủ. <strong>Kingsmarch</strong> — thuộc địa Kalguur lần hai. Oriath thử hình thức <strong>chính quyền dân sự</strong>.",
+            "flavorText": "\"Nền văn minh cứ nổi lên rồi sụp đổ. Chúng ta chỉ là chương tiếp theo.\" — Alva Valai"
+        },
+        {
+            "icon": "🌑",
+            "title": "Twilight Order & Corruption Trở Lại",
+            "text": "<strong>Twilight Order</strong> — tổ chức bí ẩn đánh cắp <strong>Seed of Corruption</strong>. Exile mới bắt đầu tại <strong>Ogham</strong> (quê hương Ezomyte). <strong>Count of Ogham</strong> cai trị bằng necromancy. Corruption lan rộng khắp Wraeclast.",
+            "flavorText": "\"Cái chết không phải kết thúc. Nó là sự khởi đầu của sự phục tùng.\" — Count of Ogham"
+        },
+        {
+            "icon": "🗡️",
+            "title": "Hành Trình 5 Act",
+            "text": "<strong>Act 1</strong>: Ogham — giải phóng khỏi Count. <strong>Act 2</strong>: Vastiri — truy đuổi Beast. <strong>Act 3</strong>: Utzaal — tìm Doryani (chuyên gia Vaal). <strong>Act 4</strong>: Ngamakanui — săn tìm Vũ Khí (Sắc Lệnh Thứ Ba). <strong>Act 5</strong>: Oriath — đối đầu Twilight Order."
+        },
+        {
+            "icon": "🔥",
+            "title": "Doryani & Vũ Khí Cổ Đại",
+            "text": "<strong>Doryani</strong> — thaumaturgist Vaal cổ đại — sống sót nhờ thí nghiệm bất tử. Trở thành đồng minh. Giúp nghiên cứu <strong>Precursor ruins</strong>, tìm <strong>Vũ Khí — Instrument of the Third Edict</strong> — failsafe để phá hủy Seed of Corruption.",
+            "flavorText": "\"Nếu họ đã hoàn thành mạng lưới tháp, nó có thể thay đổi bộ mặt thế giới...\" — Precursor Tablet"
+        }
+    ]
+}

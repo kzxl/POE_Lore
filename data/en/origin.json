@@ -1,0 +1,84 @@
+{
+    "era": "Era I",
+    "title": "Prehistory & The Origin",
+    "subtitle": "The first entities, lost civilizations, and the Wheel of Time",
+    "cards": [
+        {
+            "icon": "🔄",
+            "title": "Cycles of Time",
+            "text": "<strong>Time</strong> in Wraeclast is not linear — it is <strong>circular</strong>. Navali calls it <em>\"The Future — The Past\"</em>: <strong>Hinekora</strong> doesn't see the future, only the past and what will repeat. Each cycle ends in catastrophe, and everything begins anew.",
+            "flavorText": "\"If Time truly is a circle, aren't we all condemned to repeat our lives forever?\" — Gwennen"
+        },
+        {
+            "icon": "🌊",
+            "title": "Kalandra and the Mysterious Lake",
+            "text": "<strong>Kalandra</strong> — the most ancient entity, predating the gods themselves. When she arrived at Wraeclast, there was only <strong>the Lake</strong> — molten land and primordial ooze. <em>\"Curiosity is my undoing\"</em> — she became trapped in the Lake, unable to leave. She calls herself <strong>\"The Observer\"</strong> — watching life evolve over millions of years.",
+            "quote": "\"I looked away for just a moment, and the little creatures had invented religion. What are gods, if not thieves of virtue?\" — Kalandra, Ancient Etchings IV",
+            "flavorText": "\"What you need, little thief, is a broken mirror.\" — Kalandra, Ancient Etchings V"
+        },
+        {
+            "icon": "🏔️",
+            "title": "Precursors — The First Civilization",
+            "text": "Before even the Vaal, <strong>Precursors</strong> ruled Wraeclast — a civilization <strong>so ancient that geology itself has erased its traces</strong>. They built tower systems capable of <strong>reshaping terrain and ecosystems</strong> across all Wraeclast. Doryani notes: <em>\"They too delved into the secrets of the world. Corruption was but one of many energies they mastered.\"</em>",
+            "flavorText": "\"They were masters of their world. They built constructions whose mere ruins inspire awe... even in me.\" — Doryani"
+        },
+        {
+            "icon": "📜",
+            "title": "The Three Edicts of Mothersoul",
+            "text": "Precursors left <strong>pictographs</strong> in their ruins — safeguard instructions for future civilizations. Doryani discovered three <strong>murals</strong>: First Edict (destroyed), Second (<strong>Seed of Corruption</strong>), Third (<strong>The Weapon</strong> to destroy the Seed and The Beast). The Weapon was never completed — the Precursors were <em>\"interrupted.\"</em>",
+            "warning": "Fourth Edict: \"Humanity has failed... Must begin anew. By the Sacred Fire of Mothersoul, Her flesh shall be burned.\" — Arbiter of Ash",
+            "flavorText": "\"Her earth has been soiled once more... By the Fourth Edict... Her flesh shall be burned.\" — Arbiter of Ash"
+        },
+        {
+            "icon": "🌟",
+            "title": "Cosmic Entities",
+            "text": "Beyond gods, there exist <strong>Cosmic Entities</strong> that transcend all divinity. <strong>Chaos</strong> observes multiple timelines, manipulating fate through randomness. <strong>The Maven</strong> — an alien entity that \"collects\" battles for entertainment. <strong>The Elder</strong> — entity from the Void.",
+            "flavorText": "\"I do not destroy. I merely... observe.\" — Chaos"
+        }
+    ],
+    "table": {
+        "headers": [
+            "Entity",
+            "Nature",
+            "Significance"
+        ],
+        "rows": [
+            [
+                "Kalandra",
+                "Ancient Observer, trapped in the Lake",
+                "Mirror of Kalandra, Lake of Kalandra"
+            ],
+            [
+                "Precursors",
+                "First civilization, built tower systems",
+                "Precursor Towers, Seed of Corruption"
+            ],
+            [
+                "Mothersoul",
+                "Primordial will of the earth/nature",
+                "Three Edicts, Arbiter of Ash"
+            ],
+            [
+                "Titans",
+                "Ancient colossal beings, dwelling in volcanoes",
+                "Valley of the Titans"
+            ],
+            [
+                "Chaos",
+                "Cosmic entity manipulating randomness",
+                "Chaos Orb, Divination"
+            ],
+            [
+                "The Maven",
+                "Alien entity collecting battles",
+                "Maven Encounters"
+            ],
+            [
+                "The Elder",
+                "Entity from the Void",
+                "Elder Guardians, Starforge"
+            ]
+        ],
+        "caption": "Primordial Entities & Powers"
+    }
+}
