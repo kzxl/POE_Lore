@@ -1,0 +1,134 @@
+{
+    "groups": [
+        {
+            "title": "Act 1 — Lioneye's Watch",
+            "npcs": [
+                "nessa",
+                "bestel"
+            ]
+        },
+        {
+            "title": "Act 2 — Forest Encampment",
+            "npcs": [
+                "silk",
+                "eramir"
+            ]
+        },
+        {
+            "title": "Act 3-4 — Sarn & Highgate",
+            "npcs": [
+                "hargan",
+                "dialla",
+                "piety",
+                "tasuni"
+            ]
+        },
+        {
+            "title": "Act 5-10 — Oriath & The Gods",
+            "npcs": [
+                "dominus",
+                "sin_god",
+                "lilly",
+                "lani"
+            ]
+        }
+    ],
+    "profiles": {
+        "nessa": {
+            "name": "Nessa",
+            "title": "Shore Caretaker",
+            "location": "Act 1 & 6 — Lioneye's Watch",
+            "summary": "A shipwreck survivor who became the encampment's caretaker.",
+            "story": "<strong>Nessa</strong> is not a criminal exile — she is a <strong>shipwreck survivor</strong> who lost her family off the coast. She became the \"mother\" of the encampment, tending the sick.\n\n<strong>Act 6 Tragedy:</strong> <strong>Tsoagoth — The Brine King</strong> kidnaps Nessa, forcing her to become his \"bride.\" She is <strong>fused with the Brine King</strong>, becoming a lure for victims.",
+            "flavorText": "\"The sea takes everything. But sometimes, it gives back.\" — Nessa"
+        },
+        "bestel": {
+            "name": "Bestel",
+            "title": "The Mad Captain",
+            "location": "Act 1 & 6 — Lioneye's Watch",
+            "summary": "Captain of the Merry Gull, sole survivor after his crew was eaten by cannibals.",
+            "story": "Captain of the <strong>Merry Gull</strong>, wrecked on Tidal Island. Crew <strong>devoured by cannibals</strong> — only Bestel survived. Known for terrible poetry and romance novel <strong>\"Cedric and the Buxom Stranger.\"</strong>",
+            "flavorText": "\"The muse came to me on wings of rum and despair.\" — Bestel"
+        },
+        "silk": {
+            "name": "Silk",
+            "title": "The Boastful Hunter",
+            "location": "Act 2 & 7 — Forest Encampment",
+            "summary": "A boastful hunter ultimately devoured by the Spider Goddess.",
+            "story": "Self-proclaimed <strong>great hunter</strong>, despised by Greust. <strong>Yeena</strong> believes truth hides in his stories.\n\n<strong>Act 7:</strong> Corrupted by <strong>Arakaali</strong>. Believes he'll marry the spider goddess. She <strong>devours him</strong>.",
+            "flavorText": "\"Every good story begins with a lie.\" — Silk"
+        },
+        "eramir": {
+            "name": "Eramir",
+            "title": "The Exiled Librarian",
+            "location": "Act 2 & 7 — Forest Encampment",
+            "summary": "Former Great Library librarian, most knowledgeable about Azmeri history.",
+            "story": "Former librarian of <strong>Oriath's Great Library</strong>. Respected by the Azmeri tribe. Always suggests \"throw dangerous artifacts in the river.\" Once <strong>knew The Shaper</strong>.",
+            "flavorText": "\"Knowledge is light. But too much light burns the eyes.\" — Eramir"
+        },
+        "hargan": {
+            "name": "Hargan",
+            "title": "Black Market Dealer",
+            "location": "Act 3 & 8 — Sarn Encampment",
+            "summary": "Oriathan merchant, expert of Sarn's underground.",
+            "story": "Street-smart merchant. Never gives anything for free. Once smuggled someone who had an affair with <strong>Gravicius's</strong> wife — earning lifelong enmity.",
+            "flavorText": "\"Trust is a luxury. In Sarn, we only have deals.\" — Hargan"
+        },
+        "dialla": {
+            "name": "Lady Dialla",
+            "title": "The Gemling Queen",
+            "location": "Act 3 & 4 — Solaris Temple",
+            "summary": "Transformed by Malachai into an immortal gem-human, 200+ years old.",
+            "story": "Former mistress of <strong>Emperor Chitus</strong>, given to <strong>Malachai</strong>. He embedded <strong>Virtue Gems in her body</strong>. She <strong>refused to power the Rapture Device</strong> — causing partial Cataclysm instead of total destruction.",
+            "flavorText": "\"Not a cockroach. Not yet.\" — Lady Dialla"
+        },
+        "piety": {
+            "name": "Piety",
+            "title": "Thaumaturgy Sorceress",
+            "location": "Act 3, 4 — Lunaris Temple / The Beast",
+            "summary": "From prostitute to powerful sorceress, sacrificed fighting Malachai.",
+            "story": "Real name <strong>Vinia</strong>. Sentenced to burn for illegal thaumaturgy but <strong>Dominus</strong> spared her. Built lab in <strong>Lunaris Temple</strong>, created <strong>Miscreations</strong>. Later allied with Exile — <strong>killed by Malachai</strong>.",
+            "flavorText": "\"Progress is not made by the many.\" — Piety"
+        },
+        "tasuni": {
+            "name": "Tasuni",
+            "title": "Blind Maraketh Seer",
+            "location": "Act 4 & 9 — Highgate",
+            "summary": "Born-blind seer who communicates with The Beast.",
+            "story": "Born blind, cast away by his tribe. Miraculously survived. Communicates with <strong>The Beast</strong> and <strong>The Nightmare</strong>. <strong>Irasha</strong> sees him as a <strong>dangerous manipulator</strong> who wants to become a god.",
+            "flavorText": "\"I cannot see the light. But I see what the light hides.\" — Tasuni"
+        },
+        "dominus": {
+            "name": "High Templar Dominus",
+            "title": "Tyrant of Oriath",
+            "location": "Act 3 — Sceptre of God (Boss)",
+            "summary": "High Templar who exiled the player, obsessed with godhood.",
+            "story": "Supreme authority of the Templar order. <strong>Exiled the player character</strong>. Commanded the <strong>Ebony Legion</strong>. Came to Wraeclast to experiment with Virtue Gems. Transforms into <strong>Dominus Ascendant</strong> when fought.",
+            "flavorText": "\"Order through strength. Strength through faith. Faith through me.\" — Dominus"
+        },
+        "sin_god": {
+            "name": "Sin",
+            "title": "God of Shadow — Unexpected Ally",
+            "location": "Act 5-10 — Companion throughout",
+            "summary": "Twin of Innocence, created The Beast, becomes the player's ally.",
+            "story": "Innocence <strong>vilified Sin</strong> to ascend — the \"<strong>Original Sin</strong>.\" Sin created <strong>The Beast</strong> to imprison gods and free humanity. Guides the Exile through the <strong>Pantheon system</strong>. <strong>Sacrifices his power</strong> to help defeat Kitava.",
+            "flavorText": "\"It is not a monster. It is a cage.\" — Sin, about The Beast"
+        },
+        "lilly": {
+            "name": "Lilly Roth",
+            "title": "Pirate Entrepreneur",
+            "location": "Act 5, 6, 9, 10",
+            "summary": "Granddaughter of pirate Weylam Roth, provides transportation.",
+            "story": "Granddaughter of <strong>Weylam Roth</strong>. Once dated <strong>Tarkleigh</strong> — <strong>tied him up</strong> and left when he wanted to settle, causing his exile. Provides ships for travel between Oriath and Wraeclast.",
+            "flavorText": "\"The sea is not a home. The sea is freedom.\" — Lilly Roth"
+        },
+        "lani": {
+            "name": "Lani",
+            "title": "Resistance Fighter",
+            "location": "Act 5 & 10 — Oriath",
+            "summary": "Oriathan fighter who gathered intelligence for the anti-Templar rebellion.",
+            "story": "Risked her life repeatedly gathering intelligence. Helped Exile escape Oriath. Knows about <strong>Kitava's cult</strong> and the <strong>\"King's Feast\"</strong> ritual. Shares a past with <strong>Lilly Roth</strong>.",
+            "flavorText": "\"Freedom is not given. It is taken.\" — Lani"
+        }
+    }
+}

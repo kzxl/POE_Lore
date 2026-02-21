@@ -1,0 +1,587 @@
+{
+    "origin": {
+        "era": "Era I",
+        "title": "Prehistory & The Origin",
+        "subtitle": "The first entities and lost civilizations",
+        "cards": [
+            {
+                "icon": "🌊",
+                "title": "Kalandra and the Mysterious Lake",
+                "text": "The first known entity in Wraeclast's history is <strong>Kalandra</strong> — an ancient being who may predate the gods themselves. Imprisoned in the <strong>Lake of Kalandra</strong>, she possesses the power to <strong>reflect and duplicate</strong> all things — the origin of the Mirror of Kalandra. She calls the gods <em>\"Thieves of Virtue.\"</em>",
+                "quote": "Kalandra may be the most powerful entity in Wraeclast — surpassing even the gods.",
+                "flavorText": "\"Thieves! All of you are thieves of virtue!\" — Kalandra"
+            },
+            {
+                "icon": "🏔️",
+                "title": "Prehistoric Civilization (Proto-Vaal)",
+                "text": "Before the Vaal, a <strong>highly advanced civilization</strong> existed — the \"Proto-Vaal.\" Wiped out by an unknown catastrophe. Remnants persist deep within the <strong>Azurite Mine</strong>. Ancient <strong>Titans</strong> may have created the first Virtue Gems through volcanic activity."
+            },
+            {
+                "icon": "🌟",
+                "title": "Cosmic Entities",
+                "text": "Beyond gods, Wraeclast has <strong>Cosmic Entities</strong> — \"Impulses\" that transcend divinity. <strong>Chaos</strong> observes multiple timelines, manipulating fate through randomness. <strong>The Maven</strong> — an alien entity that \"collects\" battles for entertainment.",
+                "flavorText": "\"I do not destroy. I merely... observe.\" — Chaos"
+            }
+        ],
+        "table": {
+            "headers": [
+                "God",
+                "Role",
+                "Related"
+            ],
+            "rows": [
+                [
+                    "Innocence",
+                    "God of Light, the savior",
+                    "Templar Order"
+                ],
+                [
+                    "Sin",
+                    "Brother of Innocence, created The Beast",
+                    "Dark Ember, thaumaturgy"
+                ],
+                [
+                    "Tukohama",
+                    "Karui God of War",
+                    "Deceived King Kaom"
+                ],
+                [
+                    "Kitava",
+                    "God of Hunger, destroyer of Oriath",
+                    "Act 5 & 10 Boss"
+                ],
+                [
+                    "Hinekora",
+                    "Karui God of Death",
+                    "Afterlife"
+                ],
+                [
+                    "Arakaali",
+                    "Spider Goddess, Mother of Darkness",
+                    "Act 7 Boss"
+                ],
+                [
+                    "Solaris & Lunaris",
+                    "Sun & Moon Gods",
+                    "Act 8 Bosses"
+                ],
+                [
+                    "Garukhan",
+                    "Maraketh Wind God",
+                    "Act 9"
+                ],
+                [
+                    "Shakari",
+                    "Desert Goddess",
+                    "Act 9"
+                ]
+            ],
+            "caption": "Gods & Powers"
+        }
+    },
+    "winter": {
+        "era": "Era II",
+        "title": "The World Winter",
+        "subtitle": "The Great Wasting — When darkness swallowed the light",
+        "cards": [
+            {
+                "icon": "❄️",
+                "title": "Global Catastrophe",
+                "text": "The <strong>Maraketh</strong> called it the <em>\"World Winter,\"</em> the <strong>Karui</strong> called it the <em>\"Great Wasting.\"</em> Massive volcanic eruptions blocked the sky with ash for years. The sun vanished, plunging the world into darkness and cold.",
+                "flavorText": "\"The sky turned to stone and the sun refused to rise.\" — Maraketh oral tradition"
+            },
+            {
+                "icon": "👹",
+                "title": "The Lightless",
+                "text": "<strong>Lightless</strong> emerged — creatures that thrive in darkness, slaughtering the <strong>Maraketh</strong>, <strong>Azmeri</strong>, and <strong>Karui</strong>. The Azmeri nearly went extinct, forced to hide in mountain caves."
+            },
+            {
+                "icon": "⚔️",
+                "title": "Order of the Djinn",
+                "text": "The <strong>Order of the Djinn</strong> defeated the Lightless and restored sunlight. <strong>Innocence</strong> ascended from mortal to god. <strong>Sin</strong> was cast out, planting the <strong>Dark Ember</strong> deep underground.",
+                "flavorText": "\"My brother was burned for sins I did not commit.\" — Sin"
+            },
+            {
+                "icon": "🐉",
+                "title": "The Birth of The Beast",
+                "text": "From the Dark Ember, <strong>The Beast</strong> emerged — the source of all <strong>thaumaturgy</strong>. It transforms divine energy into Virtue Gems. It emits a frequency that <strong>puts all gods to sleep</strong>.",
+                "quote": "The Beast is like an oyster — transforming divine energy into Gems, as oysters turn sand into pearls.",
+                "flavorText": "\"It is not a monster. It is a cage.\" — Sin"
+            }
+        ]
+    },
+    "vaal": {
+        "era": "Era III",
+        "title": "The Vaal Civilization",
+        "subtitle": "~900 – 400 BIC — The most brilliant and tragic civilization",
+        "cards": [
+            {
+                "icon": "🏛️",
+                "title": "Glorious Beginning",
+                "text": "The Vaal discovered <strong>Virtue Gems</strong> beneath <strong>Mount Veruso</strong>, calling them <strong>\"Tears of Maji.\"</strong> They used <strong>blood sacrifice</strong> to power their Gems.",
+                "flavorText": "\"The tears of gods fell, and we picked them up and called it power.\" — Doryani"
+            },
+            {
+                "icon": "🔬",
+                "title": "Thaumaturgical Achievements",
+                "text": "Built the <strong>Ancient Pyramid</strong> and <strong>Vaal Ruins</strong> with traps that still function millennia later. Created <strong>Vaal Constructs</strong> — biological-magical machines. All powered by blood."
+            },
+            {
+                "icon": "👑",
+                "title": "Queen Atziri",
+                "text": "<strong>Atziri</strong> — the last Queen — obsessed with <strong>eternal beauty and immortality</strong>. Always carried a mirror, ordering thousands sacrificed to preserve her beauty.",
+                "flavorText": "\"Beauty is the only power that needs no justification.\" — Queen Atziri"
+            },
+            {
+                "icon": "💀",
+                "title": "Doryani and the Great Cataclysm",
+                "text": "<strong>Doryani</strong> performed the ritual of immortality for Atziri. Energy spiraled out of control, tearing reality apart — the <strong>Vaal Cataclysm (~400 BIC)</strong>. Civilization erased in a single night.",
+                "warning": "Atziri did not die — she was sealed in another dimension, summonable via Vaal Fragments.",
+                "flavorText": "\"The greatest ambition always comes with the greatest destruction.\" — Eramir"
+            }
+        ],
+        "table": {
+            "headers": [
+                "Field",
+                "Description",
+                "Game Legacy"
+            ],
+            "rows": [
+                [
+                    "Blood Thaumaturgy",
+                    "Magic powered by human sacrifice",
+                    "Vaal Skills, Vaal Gems"
+                ],
+                [
+                    "Architecture",
+                    "Pyramids, millennia-old traps",
+                    "Vaal Side Areas"
+                ],
+                [
+                    "Virtue Gems",
+                    "\"Tears of Maji\"",
+                    "All skill gems"
+                ],
+                [
+                    "Corruption",
+                    "Altering the essence of matter",
+                    "Vaal Orb, Corrupted items"
+                ],
+                [
+                    "Bio-thaumaturgy",
+                    "Biological machines + magic",
+                    "Vaal Constructs"
+                ]
+            ],
+            "caption": "Vaal Achievements & Legacy"
+        }
+    },
+    "eternal": {
+        "era": "Era IV",
+        "title": "The Eternal Empire",
+        "subtitle": "1 IC – ~1339 IC — From glory to destruction",
+        "cards": [
+            {
+                "icon": "⚜️",
+                "title": "Rise of the Azmeri",
+                "text": "The <strong>Azmeri</strong> from the Azmerian Mountains rose to dominance. <strong>Tarcus Veruso</strong> founded <strong>Sarn</strong> in <strong>1 IC</strong>. The Empire enslaved the Ezomyte, Maraketh, and Karui."
+            },
+            {
+                "icon": "⛓️",
+                "title": "System of Slavery",
+                "text": "The <strong>Ezomyte</strong> were used as labor and gladiators. The <strong>Maraketh</strong> were brutally oppressed. The <strong>Karui</strong> were enslaved after General <strong>Lioneye</strong> defeated them.",
+                "flavorText": "\"We called it order. They called it chains.\" — Imperial historian"
+            },
+            {
+                "icon": "🔮",
+                "title": "Chitus & Malachai",
+                "text": "<strong>Emperor Chitus</strong> from the Perandus family rose through <strong>Izaro's Labyrinth</strong>. Appointed <strong>Malachai</strong> as advisor. Malachai industrialized Virtue Gem mining, turned <strong>Lady Dialla</strong> into the <strong>\"Gem Queen.\"</strong>",
+                "quote": "Lady Dialla — the most tragic experiment, immortal in suffering.",
+                "flavorText": "\"Not a cockroach. Not yet.\" — Lady Dialla"
+            },
+            {
+                "icon": "🗡️",
+                "title": "Purity Rebellion (~1333 IC)",
+                "text": "<strong>High Templar Voll</strong> led the rebellion with <strong>Victario</strong> the Poet, <strong>King Kaom</strong>, <strong>Sekhema Deshret</strong>. Voll defeated Chitus but spared Malachai.",
+                "flavorText": "\"Victory is not in the Karui fist, it is in the Karui blood.\" — Kaom's Heart"
+            },
+            {
+                "icon": "💀",
+                "title": "The Cataclysm (~1339 IC)",
+                "text": "Malachai built the <strong>Rapture Device</strong> to breach The Beast. Dialla refused to power it. He used a partial rift to enter The Beast, then caused <strong>The Cataclysm</strong> — destroying the Empire. <strong>Sekhema Deshret</strong> managed to seal the Beast. The Maraketh have been guarding this seal ever since.",
+                "warning": "Malachai lives inside The Beast, part of The Nightmare, plotting another Cataclysm.",
+                "flavorText": "\"Progress is not made by the many, but by those who dare step into the darkness.\" — Malachai"
+            }
+        ],
+        "table": {
+            "headers": [
+                "Character",
+                "Role",
+                "Game Legacy"
+            ],
+            "rows": [
+                [
+                    "Tarcus Veruso",
+                    "Founded Sarn",
+                    "Mount Veruso"
+                ],
+                [
+                    "Emperor Izaro",
+                    "Last Phrecian, created Labyrinth",
+                    "The Labyrinth, Uber Lab"
+                ],
+                [
+                    "Emperor Chitus",
+                    "Perandus Emperor",
+                    "Chitus' Plum"
+                ],
+                [
+                    "Malachai",
+                    "Genius betrayer",
+                    "Act 4 Final Boss"
+                ],
+                [
+                    "Lady Dialla",
+                    "\"Gem Queen\"",
+                    "NPC Act 3 & 4"
+                ],
+                [
+                    "High Templar Voll",
+                    "Led Purity Rebellion",
+                    "Voll's Devotion"
+                ],
+                [
+                    "King Kaom",
+                    "Legendary Karui warrior",
+                    "Kaom's Heart"
+                ],
+                [
+                    "Victario",
+                    "The People's Poet",
+                    "Victario's Influence"
+                ],
+                [
+                    "Daresso",
+                    "Swordsman of love",
+                    "Daresso's Defiance"
+                ],
+                [
+                    "Maligaro",
+                    "Gem experimenter, created Baleful Gem",
+                    "Chamber of Sins Boss"
+                ],
+                [
+                    "Doedre",
+                    "Maligaro's apprentice, dark thaumaturgist",
+                    "Act 4/8 Boss"
+                ],
+                [
+                    "General Lioneye",
+                    "Fought the Karui",
+                    "Lioneye's Glare"
+                ],
+                [
+                    "Merveil",
+                    "Daresso's wife, cursed",
+                    "Act 1 Boss"
+                ]
+            ],
+            "caption": "Characters & Legacy"
+        }
+    },
+    "modern": {
+        "era": "Era V",
+        "title": "Modern Era — Path of Exile 1",
+        "subtitle": "The Exile's journey through the cursed land",
+        "cards": [
+            {
+                "icon": "⛓️",
+                "title": "Wraeclast — The Penal Colony",
+                "text": "After The Cataclysm, Wraeclast became a dead land. <strong>Oriath</strong> uses it as a penal colony. Exiles are chained, thrown on ships, sent to the place \"from which none return.\"",
+                "flavorText": "\"Welcome to Wraeclast, Exile. This is your new home.\" — Tarkleigh"
+            },
+            {
+                "icon": "🏰",
+                "title": "Oriath — The Theocratic Island",
+                "text": "<strong>High Templar Dominus</strong> rules Oriath, secretly experimenting with Virtue Gems, turning humans into <strong>Miscreations</strong>.",
+                "flavorText": "\"Order through strength. Strength through faith. Faith through me.\" — Dominus"
+            }
+        ],
+        "timeline": [
+            {
+                "date": "Act 1",
+                "title": "The Wild Shore",
+                "text": "Exile washes ashore, rescued at Lioneye's Watch. Defeat <strong>Merveil</strong> — a siren cursed by the Star of Wraeclast.",
+                "flavorText": "\"The sea takes everything. But sometimes, it gives back.\" — Nessa"
+            },
+            {
+                "date": "Act 2",
+                "title": "The Forest & Bandits",
+                "text": "Confront <strong>Alira, Kraityn, Oak</strong> — three bandit lords. Explore Vaal ruins, defeat <strong>Vaal Oversoul</strong>."
+            },
+            {
+                "date": "Act 3",
+                "title": "Sarn — The Dead City",
+                "text": "Meet <strong>Lady Dialla</strong>. Defeat <strong>Dominus</strong> atop the Sceptre of God.",
+                "flavorText": "\"Not a cockroach. Not yet. But getting there.\" — Lady Dialla"
+            },
+            {
+                "date": "Act 4",
+                "title": "⚠️ Slaying The Beast",
+                "text": "Enter The Beast. Face the spirits of <strong>Kaom</strong> and <strong>Daresso</strong>. Kill <strong>Malachai</strong> and <strong>The Beast</strong> — awakening all gods!",
+                "flavorText": "\"We killed the beast. But who will keep the gods asleep?\" — Tasuni"
+            },
+            {
+                "date": "Act 5",
+                "title": "🔥 Kitava Awakens",
+                "text": "Return to Oriath. <strong>Kitava</strong> rises and devours the island. Exile loses first fight, all Resistances stripped."
+            },
+            {
+                "date": "Act 6-7",
+                "title": "Wraeclast Transformed",
+                "text": "Gods awaken: <strong>Tukohama</strong> burns forests, <strong>Arakaali</strong> builds nests, <strong>Brine King</strong> kidnaps Nessa. <strong>Sin</strong> helps absorb divine power."
+            },
+            {
+                "date": "Act 8-9",
+                "title": "War of the Gods",
+                "text": "Defeat <strong>Solaris & Lunaris</strong>, <strong>Garukhan</strong>, <strong>Shakari</strong>. Gather enough divine power."
+            },
+            {
+                "date": "Act 10",
+                "title": "⚔️ Defeat Kitava",
+                "text": "Final battle with <strong>Kitava</strong> in Oriath, aided by <strong>Sin</strong> and <strong>Innocence</strong>.",
+                "flavorText": "\"In the end, even the hungry must learn to be full.\" — Sin"
+            }
+        ],
+        "summary": {
+            "title": "POE 1 Conclusion",
+            "items": [
+                "✅ The Beast slain — source of thaumaturgy destroyed",
+                "✅ Malachai eliminated",
+                "✅ Kitava defeated, Oriath liberated",
+                "✅ Innocence redeemed",
+                "⚠️ Gods have awakened",
+                "⚠️ The Elder, The Shaper — endgame threats remain"
+            ]
+        }
+    },
+    "poe2": {
+        "era": "Era VI",
+        "title": "Path of Exile 2",
+        "subtitle": "20 years after Kitava's defeat",
+        "cards": [
+            {
+                "icon": "🔥",
+                "title": "The World 20 Years Later",
+                "text": "<strong>20 years after</strong> POE 1. Prehistoric civilizations explored deeper, new dark forces rising."
+            },
+            {
+                "icon": "🗺️",
+                "title": "New Exile",
+                "text": "6 new classes: <strong>Warrior, Ranger, Sorceress, Monk, Mercenary, Witch</strong>. Gems now socket directly into characters."
+            },
+            {
+                "icon": "⚡",
+                "title": "The Count of Ogham",
+                "text": "<strong>The Count</strong> rules through necromancy, commanding a massive undead army.",
+                "flavorText": "\"Death is not the end. It is the beginning of obedience.\" — Count of Ogham"
+            }
+        ]
+    },
+    "items": {
+        "era": "Encyclopedia",
+        "title": "Legendary Items",
+        "subtitle": "Every item tells a story",
+        "cards": [
+            {
+                "icon": "💎",
+                "title": "Virtue Gems — Source of All Power",
+                "text": "Crystallized energy of The Beast. The Vaal called them <strong>\"Tears of Maji.\"</strong> Each Gem contains a <strong>\"Volition\"</strong> — a primitive consciousness.",
+                "quote": "Virtue Gems — fragments of a cosmic entity's will.",
+                "flavorText": "\"Tear down the walls that imprison the mind... that is what the gems do. That is their true 'virtue'.\" — Malachai's Journal"
+            },
+            {
+                "icon": "🔴",
+                "title": "Vaal Gems & Corruption",
+                "text": "Transforming Virtue Gems with dark energy. <strong>Vaal Gems</strong> — extremely powerful but cost souls. <strong>Vaal Orb</strong> is their direct legacy.",
+                "flavorText": "\"Corruption does not destroy. It liberates.\" — Doryani"
+            }
+        ],
+        "table": {
+            "headers": [
+                "Currency",
+                "Lore",
+                "Function",
+                "Flavor Text"
+            ],
+            "rows": [
+                [
+                    "Mirror of Kalandra",
+                    "Fragment of Kalandra's reflection power",
+                    "Duplicate 1 item",
+                    "\"The gem that Kalandra gave to the little thief.\""
+                ],
+                [
+                    "Chaos Orb",
+                    "Crystallized Chaos — cosmic entity of fate",
+                    "Re-roll rare mods",
+                    "\"Randomness is not chaos. It is art.\""
+                ],
+                [
+                    "Exalted Orb",
+                    "Distorted face — imprisoned soul or thaumaturgy essence",
+                    "Add 1 mod to rare",
+                    "\"Power has a price. And that price is a soul.\""
+                ],
+                [
+                    "Divine Orb",
+                    "The power of optimization — perfecting items",
+                    "Re-roll mod values",
+                    "\"Perfection is not a destination. It is a journey.\""
+                ],
+                [
+                    "Vaal Orb",
+                    "Legacy of Vaal corruption techniques",
+                    "Corrupt item permanently",
+                    "\"Best or worst result — that is the Vaal way.\""
+                ]
+            ],
+            "caption": "💰 Currency Orbs"
+        }
+    },
+    "world": {
+        "era": "Appendix",
+        "title": "The World of Wraeclast",
+        "subtitle": "Locations, races, and legendary unique items",
+        "locations": {
+            "headers": [
+                "Location",
+                "Description",
+                "Significance"
+            ],
+            "rows": [
+                [
+                    "Sarn",
+                    "Empire capital, now ruins filled with Undying",
+                    "Act 3, 8"
+                ],
+                [
+                    "Oriath",
+                    "Templar island nation",
+                    "Act 5, 10"
+                ],
+                [
+                    "Lioneye's Watch",
+                    "General Lioneye's fortress",
+                    "Act 1 Town"
+                ],
+                [
+                    "Highgate",
+                    "Maraketh village near The Beast",
+                    "Act 4, 9"
+                ],
+                [
+                    "Mount Veruso",
+                    "Where first Virtue Gems were found",
+                    "Origin of Gems"
+                ],
+                [
+                    "Atlas of Worlds",
+                    "Infinite network of parallel worlds",
+                    "Endgame"
+                ],
+                [
+                    "Azurite Mine",
+                    "Endless deep mine with Proto-Vaal relics",
+                    "Delve"
+                ]
+            ]
+        },
+        "races": {
+            "headers": [
+                "Race",
+                "Traits",
+                "History"
+            ],
+            "rows": [
+                [
+                    "Azmeri",
+                    "Founded the Eternal Empire",
+                    "Survived Winter in mountain caves"
+                ],
+                [
+                    "Karui",
+                    "Fierce warriors, worship many gods",
+                    "Enslaved, rebelled with Kaom"
+                ],
+                [
+                    "Maraketh",
+                    "Desert nomads",
+                    "Oppressed by the Empire"
+                ],
+                [
+                    "Ezomyte",
+                    "Large northern people",
+                    "Empire's slaves & gladiators"
+                ],
+                [
+                    "Vaal",
+                    "Ancient civilization",
+                    "Discovered Gems, destroyed by Cataclysm"
+                ]
+            ]
+        },
+        "uniques": {
+            "headers": [
+                "Item",
+                "Type",
+                "Story",
+                "Flavor Text"
+            ],
+            "rows": [
+                [
+                    "Kaom's Heart",
+                    "Armor",
+                    "+500 HP, no sockets. Pure Karui strength.",
+                    "\"Victory is not in the Karui fist, it is in the Karui blood.\""
+                ],
+                [
+                    "Starforge",
+                    "Sword",
+                    "Forged to imprison The Elder. Venarius drew it, freeing the Elder.",
+                    "\"The star forged into a blade, keeping darkness in steel.\""
+                ],
+                [
+                    "Atziri's Mirror",
+                    "Shield",
+                    "Symbol of vanity. Reflects curses.",
+                    "\"What did Atziri see in the mirror? Only eternal beauty.\""
+                ],
+                [
+                    "Headhunter",
+                    "Belt",
+                    "Kill rares, absorb their mods. Rarest item.",
+                    "\"A life spent hunting. A death spent remembering.\""
+                ],
+                [
+                    "Mageblood",
+                    "Belt",
+                    "Connected to magical bloodstream. Auto-flask.",
+                    "\"My blood flows, my flasks drink, my magic breathes.\""
+                ],
+                [
+                    "Voll's Devotion",
+                    "Amulet",
+                    "Voll's fanatical faith.",
+                    "\"I have seen the light, and that light burns all magic.\""
+                ],
+                [
+                    "Lioneye's Glare",
+                    "Bow",
+                    "Hits never miss. Absolute military precision.",
+                    "\"The lion's eye never blinks.\""
+                ]
+            ]
+        }
+    }
+}

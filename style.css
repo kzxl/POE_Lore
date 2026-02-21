@@ -599,9 +599,278 @@ body {
 }
 
 /* Table responsive wrapper */
-.info-table-wrap {
+.table-scroll {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+}
+
+/* ======================================
+   FLAVOR TEXT
+   ====================================== */
+.flavor-text {
+    font-style: italic;
+    font-size: 0.88rem;
+    color: var(--accent-dark);
+    margin-top: 1rem;
+    padding: 0.8rem 1.2rem;
+    border-left: 2px solid var(--accent-dark);
+    background: rgba(212, 175, 55, 0.03);
+    border-radius: 0 6px 6px 0;
+    line-height: 1.7;
+    opacity: 0.85;
+    transition: opacity var(--transition-fast);
+}
+
+.flavor-text:hover {
+    opacity: 1;
+    color: var(--accent);
+}
+
+/* ======================================
+   LANG TOGGLE
+   ====================================== */
+.lang-toggle {
+    background: rgba(212, 175, 55, 0.1);
+    border: 1px solid var(--border-color);
+    color: var(--accent);
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    padding: 0.35rem 0.8rem;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+    margin-left: 0.5rem;
+}
+
+.lang-toggle:hover {
+    background: var(--accent);
+    color: var(--bg-primary);
+    box-shadow: 0 0 20px var(--accent-glow);
+}
+
+/* ======================================
+   NPC CARDS
+   ====================================== */
+.npc-group {
+    margin-bottom: 3rem;
+}
+
+.npc-group__title {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-color);
+    letter-spacing: 0.05em;
+}
+
+.npc-group__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+}
+
+.npc-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all var(--transition-normal);
+    opacity: 0;
+    transform: translateY(20px);
+    position: relative;
+    overflow: hidden;
+}
+
+.npc-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent-dark), var(--accent), var(--accent-dark));
+    opacity: 0;
+    transition: opacity var(--transition-fast);
+}
+
+.npc-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.npc-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-glow);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3), 0 0 20px var(--accent-glow);
+    transform: translateY(-4px);
+}
+
+.npc-card:hover::before {
+    opacity: 1;
+}
+
+.npc-card__name {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--accent-light);
+    margin-bottom: 0.3rem;
+}
+
+.npc-card__title {
+    font-size: 0.8rem;
+    color: var(--accent);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.03em;
+}
+
+.npc-card__location {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-bottom: 0.8rem;
+}
+
+.npc-card__summary {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.npc-card__btn {
+    background: transparent;
+    border: 1px solid var(--accent-dark);
+    color: var(--accent);
+    font-family: var(--font-heading);
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.npc-card__btn:hover {
+    background: var(--accent);
+    color: var(--bg-primary);
+    border-color: var(--accent);
+}
+
+/* ======================================
+   NPC MODAL
+   ====================================== */
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: all var(--transition-normal);
+}
+
+.modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-glow);
+    border-radius: 16px;
+    max-width: 650px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 2.5rem;
+    position: relative;
+    transform: scale(0.9) translateY(20px);
+    transition: transform var(--transition-normal);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5), 0 0 40px var(--accent-glow);
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent-dark) var(--bg-secondary);
+}
+
+.modal-overlay.active .modal {
+    transform: scale(1) translateY(0);
+}
+
+.modal__close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 36px;
+    height: 36px;
+    border: 1px solid var(--border-color);
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+    z-index: 10;
+}
+
+.modal__close:hover {
+    background: var(--danger);
+    border-color: var(--danger);
+    color: white;
+}
+
+.modal__name {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--accent-light);
+    margin-bottom: 0.3rem;
+}
+
+.modal__title {
+    font-size: 0.9rem;
+    color: var(--accent);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.modal__location {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.modal__story {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.9;
+}
+
+.modal__story strong {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.modal__flavor {
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+    padding: 1rem 1.2rem;
 }
 
 /* ======================================
@@ -709,6 +978,24 @@ body {
     .section {
         padding: var(--section-gap) 1rem;
     }
+
+    .npc-group__grid {
+        grid-template-columns: 1fr;
+    }
+
+    .modal-overlay {
+        padding: 1rem;
+    }
+
+    .modal {
+        padding: 1.5rem;
+        max-height: 90vh;
+        border-radius: 12px;
+    }
+
+    .modal__name {
+        font-size: 1.4rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -722,5 +1009,14 @@ body {
 
     .info-table {
         font-size: 0.85rem;
+    }
+
+    .modal {
+        padding: 1.2rem;
+    }
+
+    .lang-toggle {
+        font-size: 0.6rem;
+        padding: 0.3rem 0.6rem;
     }
 }

@@ -1,0 +1,134 @@
+{
+    "groups": [
+        {
+            "title": "Act 1 — Lioneye's Watch",
+            "npcs": [
+                "nessa",
+                "bestel"
+            ]
+        },
+        {
+            "title": "Act 2 — Forest Encampment",
+            "npcs": [
+                "silk",
+                "eramir"
+            ]
+        },
+        {
+            "title": "Act 3-4 — Sarn & Highgate",
+            "npcs": [
+                "hargan",
+                "dialla",
+                "piety",
+                "tasuni"
+            ]
+        },
+        {
+            "title": "Act 5-10 — Oriath & Thần Linh",
+            "npcs": [
+                "dominus",
+                "sin_god",
+                "lilly",
+                "lani"
+            ]
+        }
+    ],
+    "profiles": {
+        "nessa": {
+            "name": "Nessa",
+            "title": "Người Cứu Hộ Bờ Biển",
+            "location": "Act 1 & 6 — Lioneye's Watch",
+            "summary": "Cô gái sống sót sau vụ đắm tàu, trở thành người chăm sóc khu trại bờ biển.",
+            "story": "<strong>Nessa</strong> không phải tội phạm bị lưu đày — bà là <strong>nạn nhân đắm tàu</strong>, mất gia đình khi thuyền vỡ ngoài khơi Wraeclast. Dạt vào bờ, Nessa trở thành \"người mẹ\" của trại dân cư, dùng kiến thức y tế chăm sóc người bệnh.\n\n<strong>Bi kịch Act 6:</strong> Khi các vị thần thức tỉnh, <strong>Tsoagoth — Vua Nước Mặn</strong> bắt cóc Nessa, ép thành \"cô dâu\". Dù chống cự, Nessa bị biến đổi — <strong>hợp nhất với Brine King</strong>, trở thành \"mồi câu\" dụ nạn nhân.",
+            "flavorText": "\"Biển lấy đi tất cả. Nhưng đôi khi, nó cũng trả lại.\" — Nessa"
+        },
+        "bestel": {
+            "name": "Bestel",
+            "title": "Thuyền Trưởng Điên Cuồng",
+            "location": "Act 1 & 6 — Lioneye's Watch",
+            "summary": "Thuyền trưởng tàu Merry Gull, kẻ sống sót duy nhất sau vụ ăn thịt người.",
+            "story": "<strong>Bestel</strong> tự xưng là thuyền trưởng <strong>tàu Merry Gull</strong>, mắc cạn tại Tidal Island khi chạy trốn cướp biển. Toàn bộ thủy thủ đoàn bị <strong>quái vật ăn thịt người</strong> giết hại — Bestel sống sót duy nhất, được Tarkleigh cứu.\n\nBestel nổi tiếng với thơ dở và sự kỳ quặc. Luôn viết tiểu thuyết — tác phẩm <strong>\"Cedric and the Buxom Stranger\"</strong>. Dù có vẻ điên, Bestel là NPC đáng tin cậy nhất — không bao giờ phản bội.",
+            "flavorText": "\"Nàng thơ đến với ta trên đôi cánh rượu rum và nỗi tuyệt vọng.\" — Bestel"
+        },
+        "silk": {
+            "name": "Silk",
+            "title": "Thợ Săn Khoác Lác",
+            "location": "Act 2 & 7 — Forest Encampment",
+            "summary": "Tay thợ săn khoác lác, cuối cùng bị Nữ Thần Nhện nuốt chửng.",
+            "story": "<strong>Silk</strong> tự xưng là <strong>thợ săn vĩ đại</strong> nhưng bị Greust khinh bỉ. <strong>Yeena</strong> tin rằng Silk hiểu biết hơn vẻ ngoài.\n\n<strong>Bi kịch Act 7:</strong> Silk bị <strong>Arakaali — Nữ Thần Nhện</strong> mê hoặc. Hắn tin sẽ cưới nữ thần, mang \"Nọc Đen\" làm quà cưới. Mời Exile đến \"tiệc cưới\" — nhưng Exile là <strong>món chính</strong>. Arakaali <strong>nuốt chửng Silk</strong>.",
+            "flavorText": "\"Mọi câu chuyện hay đều bắt đầu bằng một lời nói dối.\" — Silk"
+        },
+        "eramir": {
+            "name": "Eramir",
+            "title": "Thủ Thư Lưu Đày",
+            "location": "Act 2 & 7 — Forest Encampment",
+            "summary": "Cựu thủ thư Thư Viện Lớn Oriath, người hiểu biết nhất về lịch sử Azmeri.",
+            "story": "<strong>Eramir</strong> là cựu thủ thư <strong>Thư Viện Lớn Oriath</strong>, bị lưu đày đến Wraeclast. Ông được bộ lạc Azmeri kính trọng nhờ kiến thức uyên bác.\n\nEramir có thói quen sợ artifact nguy hiểm — luôn đề nghị \"ném xuống sông.\" Đóng vai trò quan trọng trong quest <strong>\"Deal with the Bandits\"</strong>. Chi tiết ẩn: Eramir từng <strong>quen biết The Shaper</strong> — gửi nhật ký về The Elder cho Shaper.",
+            "flavorText": "\"Kiến thức là ánh sáng. Nhưng ánh sáng quá mạnh sẽ thiêu cháy mắt.\" — Eramir"
+        },
+        "hargan": {
+            "name": "Hargan",
+            "title": "Tay Buôn Chợ Đen",
+            "location": "Act 3 & 8 — Sarn Encampment",
+            "summary": "Thương nhân Oriath, chuyên gia chợ đen và thế giới ngầm Sarn.",
+            "story": "<strong>Hargan</strong> am hiểu <strong>chợ đen</strong> Sarn — kẻ sống sót nhờ bản năng tự bảo vệ. Vui vẻ nhưng <strong>không cho không ai thứ gì</strong>.\n\nTừng giúp buôn lậu một người ngoại tình với vợ <strong>Gravicius</strong> — khiến Gravicius căm thù suốt đời.",
+            "flavorText": "\"Tin tưởng là thứ xa xỉ. Ở Sarn, chúng ta chỉ có giao dịch.\" — Hargan"
+        },
+        "dialla": {
+            "name": "Lady Dialla",
+            "title": "\"Gem Queen\" — Nữ Hoàng Đá Quý",
+            "location": "Act 3 & 4 — Solaris Temple",
+            "summary": "Bị Malachai biến thành người-gem bất tử, sống hơn 200 năm.",
+            "story": "Từng là tình nhân <strong>Hoàng Đế Chitus</strong>, bị trao cho <strong>Malachai</strong> sau khi làm phật ý. Malachai cấy <strong>Virtue Gems vào cơ thể</strong>, biến thành \"Gemling Queen\" — bất tử nhưng đau khổ vĩnh viễn.\n\nMalachai dự định dùng Dialla làm <strong>nguồn năng lượng cho Rapture Device</strong>. Dialla <strong>từ chối hy sinh</strong> — thiết bị chỉ kích hoạt một phần, gây Đại Thảm Họa thay vì hủy diệt hoàn toàn. Dialla sống sót nhờ ẩn trong Solaris Temple.",
+            "flavorText": "\"Không phải gián. Chưa phải gián.\" — Lady Dialla"
+        },
+        "piety": {
+            "name": "Piety",
+            "title": "Phù Thủy Thaumaturgy",
+            "location": "Act 3, 4 — Lunaris Temple / The Beast",
+            "summary": "Từ gái điếm đến phù thủy quyền lực, cuối cùng hy sinh chống Malachai.",
+            "story": "Tên thật <strong>Vinia</strong> — gái điếm bí mật luyện thaumaturgy tại Oriath. Bị kết án thiêu sống nhưng <strong>Dominus</strong> tha mạng, đổi tên thành \"Piety\".\n\nXây lab tại <strong>Lunaris Temple</strong>, thí nghiệm kinh hoàng trên con người, tạo ra <strong>Miscreations</strong>. Sau khi Dominus bị đánh bại, Piety chuyển phe, liên minh với Exile chống Malachai. Bị Malachai <strong>đâm xuyên và giết</strong> — cái chết chuộc tội.",
+            "flavorText": "\"Tiến bộ không do đám đông tạo ra.\" — Piety"
+        },
+        "tasuni": {
+            "name": "Tasuni",
+            "title": "Tiên Tri Mù Maraketh",
+            "location": "Act 4 & 9 — Highgate",
+            "summary": "Nhà tiên tri mù bẩm sinh, giao tiếp với The Beast.",
+            "story": "Mù bẩm sinh, bị bộ lạc <strong>vứt bỏ</strong> theo truyền thống Maraketh. Sống sót kỳ diệu, được <strong>Sekhema Oyun</strong> cho phép trở lại — ngoại lệ duy nhất 200 năm.\n\n\"Nhìn vào bóng tối\" và \"nghe trái tim đen đập trong lòng núi\" — giao tiếp trực tiếp với <strong>The Beast</strong>. <strong>Irasha</strong> coi Tasuni là kẻ thao túng muốn trở thành thần — có thể là <strong>antagonist tương lai</strong>.",
+            "flavorText": "\"Ta không nhìn thấy ánh sáng. Nhưng ta nhìn thấy thứ mà ánh sáng che giấu.\" — Tasuni"
+        },
+        "dominus": {
+            "name": "High Templar Dominus",
+            "title": "Bạo Chúa Oriath",
+            "location": "Act 3 — Sceptre of God (Boss)",
+            "summary": "High Templar cai trị Oriath, kẻ lưu đày người chơi.",
+            "story": "Quyền lực tối cao Giáo đoàn Templar, <strong>kẻ đã lưu đày Exile</strong> đầu game. Chỉ huy <strong>Ebony Legion</strong>, ám ảnh trở thành thần.\n\nĐến Wraeclast thí nghiệm Virtue Gems, biến người thành <strong>Miscreations</strong>. Boss đỉnh Sceptre of God — biến đổi thành <strong>Dominus Ascendant</strong> — thực thể đỏ rực giống côn trùng.\n\nVề lịch sử: Dominus kế thừa quyền lực từ <strong>Izaro</strong> — hoàng đế cuối cùng dòng Phrecius, kẻ tạo ra <strong>The Labyrinth</strong> để chọn người kế vị.",
+            "flavorText": "\"Trật tự qua sức mạnh. Sức mạnh qua đức tin. Đức tin qua ta.\" — Dominus"
+        },
+        "sin_god": {
+            "name": "Sin",
+            "title": "Thần Bóng Tối — Đồng Minh Bất Ngờ",
+            "location": "Act 5-10 — Đồng hành xuyên suốt",
+            "summary": "Anh em Innocence, tạo ra The Beast, trở thành đồng minh.",
+            "story": "Sin và <strong>Innocence</strong> là anh em. Innocence <strong>bôi nhọ Sin</strong> để vươn lên thành thần — \"<strong>Original Sin</strong>.\"\n\nSin tạo <strong>The Beast</strong> để giam giữ thần linh, giải phóng nhân loại. Xuất hiện Act 5 sau khi Innocence bị đánh bại, hướng dẫn Exile qua hệ thống <strong>Pantheon</strong>. Cuối cùng <strong>hy sinh sức mạnh</strong> giúp Exile đánh bại Kitava.",
+            "flavorText": "\"Nó không phải quái vật. Nó là chiếc lồng.\" — Sin, nói về The Beast"
+        },
+        "lilly": {
+            "name": "Lilly Roth",
+            "title": "Nữ Hải Tặc Doanh Nhân",
+            "location": "Act 5, 6, 9, 10",
+            "summary": "Cháu gái hải tặc Weylam Roth, chở Exile đi lại.",
+            "story": "Cháu gái <strong>Weylam Roth</strong> — tự gọi là \"doanh nhân hàng hải\" nhưng thực chất <strong>cướp biển</strong>.\n\nTừng yêu <strong>Tarkleigh</strong> — khi anh muốn ổn định, Lilly <strong>trói lại tại Penn's Quay</strong> rồi bỏ đi, dẫn đến Tarkleigh bị lưu đày. Cung cấp tàu cho Exile di chuyển giữa Oriath và Wraeclast. Bán tất cả skill gems cũ.",
+            "flavorText": "\"Biển không phải nhà. Biển là tự do.\" — Lilly Roth"
+        },
+        "lani": {
+            "name": "Lani",
+            "title": "Chiến Binh Kháng Chiến",
+            "location": "Act 5 & 10 — Oriath",
+            "summary": "Chiến binh Oriath, thu thập thông tin cho cuộc nổi dậy chống Templar.",
+            "story": "Liều mạng nhiều lần thu thập tình báo cho cuộc nổi dậy. Giúp Exile trốn Oriath sau trận thua Kitava.\n\nHiểu biết sâu về <strong>giáo phái Kitava</strong> và nghi lễ <strong>\"Bữa Tiệc của Vua\"</strong> — bộ lạc chiến thắng ăn thịt kẻ bại trận. Chia sẻ quá khứ với <strong>Lilly Roth</strong>.",
+            "flavorText": "\"Tự do không phải thứ được ban phát. Nó được giành lấy.\" — Lani"
+        }
+    }
+}
